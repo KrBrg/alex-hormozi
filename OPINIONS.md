@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI.
+Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in his public writing and speech.
 
 ## Offer craft ($100M Offers)
 
@@ -79,3 +79,16 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Everything hard; don’t quit:** Business, marriage, and health are hard — the instruction is you just can’t give up.
 - **Don’t expect envy-free cheerleaders:** Do not expect anyone to be happy for your success unless they are already happy with their own.
 - **The game is made up; do you:** Life-stage framing — you wouldn’t call a 2-year-old “behind” on success or fault an 80-year-old for no career ambition; we’ve been and will be both. The game is 100% made up — do you.
+
+
+## Get rich young / early compounding (The Game Ep 1001, 2026-09-22)
+
+- **Get rich as young as possible:** If you want to get rich, try to do it young — early dollars and skills compound harder than later ones.
+- **Early money compounds faster:** Excess cash early compounds at ~3–4× the rate later; $1 at 25 can be ~$90 by 70 vs ~1/9 of that if started at 45.
+- **Skills & reputation multiply with youth:** Reps acquired young create sustained advantage; the same win means more reputationally when you’re young — youth multiplier decays around 30.
+- **Ladder stepping stones:** Early wins unlock the next enterprise (training → gym → Gym Launch → Acquisition.com); steps are set — the choice is how soon you start.
+- **Youth advantages to spend:** More energy, fewer must-dos (kids/partner/geo roots), live cheaper, reinvest aggressiveness — go where the fish are for skills and network (DC/NY/LA before you can be Rogan-in-Austin).
+- **Hard now → harder later:** Leaving the default path only gets harder; stack bets where success probability is highest. Younger = most adaptable / most neuroplastic.
+- **Rule over exception:** Prefer modeling the usual path (rich young) over outlier late-start stories (Colonel Sanders).
+- **Winners vs losers = action + pain tolerance:** Goals are the same; winners take action, tolerate risk, and endure pain with uncertain payoff. Certainty never arrives.
+- **Goals shrink on arrival:** By the time you hit a goal it feels obvious because you did the work that made it reasonable — so do unreasonable work early.

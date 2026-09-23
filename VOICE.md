@@ -93,3 +93,17 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 60. “Business is hard. / Marriage is hard. / Health is hard. / You just can’t give up.” — https://x.com/AlexHormozi/status/2102065101734035663
 61. “Do not expect anyone to be happy for your success unless they are already happy with their own.” — https://x.com/AlexHormozi/status/2102070812274803154
 62. “If you saw a 2 year old, you wouldn’t say they were “behind” on being successful despite accomplishing nothing. / If you saw an 80 year old, you wouldn’t fault them for a lack of career ambition despite no work. / We have been, and will be, both. / The game is 100% made up. / Do you.” — https://x.com/AlexHormozi/status/2102106951572422788
+
+
+### Spoken — The Game Ep 1001 (2026-09-22)
+63. “if you want to get rich, then you should try and get rich as young as possible.” — The Game Ep 1001, https://podscripts.co/podcasts/the-game-with-alex-hormozi/get-rich-while-you-are-young-ep-1001
+64. “money compounds at three to four times the rate in the beginning as it does later” — same
+65. “you basically have until you're 30 to be considered young. The moment I turned 30, I was just a white dude.” — same
+66. “youth is a multiplier on every win that you have, whether that be press, network, mentors, capital access.” — same
+67. “you want to go where the fish are if you're trying to fish. And what you're fishing for right now is skills and network” — same
+68. “I promise you it will only get harder. And if you can't do it now, the likely that you're able to do it later goes down” — same
+69. “the most adaptable player wins.” — same
+70. “wouldn't it be better to be the rule than the exception?” — same
+71. “The difference between the people who win and lose is the action they take as a result. And the risk that they're willing to tolerate and the pain that they're willing to endure for extended periods of time with an uncertain payoff.” — same
+72. “by the time you accomplish goals, the goals themselves seem less meaningful because you already did the work to make that goal reasonable” — same
+73. “ignore the people who are telling you… who don't have what you want… telling you how to get something that they've never gotten.” — same
