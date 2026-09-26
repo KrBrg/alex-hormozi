@@ -107,3 +107,21 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 71. “The difference between the people who win and lose is the action they take as a result. And the risk that they're willing to tolerate and the pain that they're willing to endure for extended periods of time with an uncertain payoff.” — same
 72. “by the time you accomplish goals, the goals themselves seem less meaningful because you already did the work to make that goal reasonable” — same
 73. “ignore the people who are telling you… who don't have what you want… telling you how to get something that they've never gotten.” — same
+
+
+### Spoken — The Game Ep 1002 (2026-09-25)
+74. “We've got to fix the thing we're selling. Once we fix the thing we're selling, we'll fix how we're selling it. And then if we're selling it well, we can price it the way we want to price it.” — The Game Ep 1002, https://podscripts.co/podcasts/the-game-with-alex-hormozi/how-to-price-a-service-business-so-it-actually-makes-money-ep-1002
+75. “whenever you have that price, I want you to 5 or 10x that cost. And then that's what your price is.” — same
+76. “I just call it a zip code tax… This is the privilege I get to have is to pay more for the exact same thing.” — same
+77. “we don't want to jam more demand through something that's thin margins. So let's fix the margins than they offer, and then jam as much demand as we can.” — same
+78. “before you ever talk to a customer, you should have a video sales letter.” — same
+79. “you already have a proven process. So it's like, how do we just do more of that for now?” — same
+80. “Just think how many feedback loops to have these people is the only way they learn. Just like saying it at them, we'll do literally nothing.” — same
+
+### Spoken — YT social-media playbook (2026-09-25)
+81. “What type of content should you make that makes the most money, not necessarily gets the most reach?” — https://www.youtube.com/watch?v=21flGkcZO3A
+82. “the algorithm will tell you what the most people like, not the most valuable people like.” — same
+83. “these are the most viewed videos… they made no sales… Zero. None.” — same
+84. “If you want to get more buyers on your content, you have to make videos for your buyers.” — same
+85. “be prepared to see your view counts go down, your subscriber counts go down, but your sales go up.” — same
+

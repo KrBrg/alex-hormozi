@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in his public writing and speech.
+Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in public sources.
 
 ## Offer craft ($100M Offers)
 
@@ -92,3 +92,25 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Rule over exception:** Prefer modeling the usual path (rich young) over outlier late-start stories (Colonel Sanders).
 - **Winners vs losers = action + pain tolerance:** Goals are the same; winners take action, tolerate risk, and endure pain with uncertain payoff. Certainty never arrives.
 - **Goals shrink on arrival:** By the time you hit a goal it feels obvious because you did the work that made it reasonable — so do unreasonable work early.
+
+
+## Service pricing / Scale-or-Fail ops (The Game Ep 1002, 2026-09-25)
+
+- **Offer → price → sales → demand:** Fix what you sell first, then how you sell it, then price, then jam demand. Don’t push more demand through thin margins.
+- **Cost × 5–10 = price:** Cost out true fixed + variable delivery costs; price at 5–10× that cost. Richer buyers sit at the high end of the range (“zip code tax” — same grass, different zip, 2–3× price).
+- **Standardized / dynamic quoting:** Build a cost sheet (Excel/AI) so sales can quote without long delays; know margin on every job.
+- **Price-lock + prepay:** Lock price if scope doesn’t change; discount ~10% for full prepay (cash today + avoid chase/lawsuit deadbeats).
+- **VSLs before every customer conversation:** Frame call 1, call 2, and post-event debrief with a video sales letter so the call is closing, not information transfer. Speed of quote lifts close rates.
+- **Proven channel first:** Do more of the acquisition process that already works (max platform limits daily) before adding new channels.
+- **Daily sales cadence + roleplay:** Morning plan / EOD pipeline; weekly 1:1s; roleplay so feedback loops actually change behavior. Saying “don’t do that” without them trying in front of you does nothing.
+- **Owner closes while reps set:** If the owner’s close rate dwarfs the team’s, have SDRs fill the owner’s calendar and document the process.
+- **Segment to the profitable slice:** After enough volume, find which ~25% of jobs drove ~75% of profit and retarget messaging/VSLs/scripting at that segment.
+
+
+## Content for buyers not viewers (YT 2026-09-25)
+
+- **Views ≠ revenue:** Top-viewed videos can make $0; lower-view “cash cow” / buyer-depth videos can drive the most money. Algorithm signals what most people like, not what most *valuable* people like.
+- **Media co vs business-using-media:** If you’re selling ads, optimize reach. If you’re using media to get customers, optimize for buyers — make videos for your buyers.
+- **Vertical value when going broad:** Prefer content a starter and a $100M operator can both use; pure 1→10 niche tanks views but buys high-intent buyers.
+- **Make content from top spenders:** Look at the top ~20% of customers — common factors, messages, problems — and create topics that solve *those* problems. Expect views/subs down, sales up.
+- **Track with UTMs + in-video CTAs:** Attribution beats vanity; put UTMs on description links and CTAs inside videos.
