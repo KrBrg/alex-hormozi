@@ -125,3 +125,11 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 84. “If you want to get more buyers on your content, you have to make videos for your buyers.” — same
 85. “be prepared to see your view counts go down, your subscriber counts go down, but your sales go up.” — same
 
+
+### Spoken — YT visual-product funnel + swamp bet (2026-09-26)
+86. “I think if you just ran ads for barndominiums, that would work. Most of the guys who… do what you do, smoke. Because your product is so visual.” — https://www.youtube.com/watch?v=57_uoyn15_w
+87. “You've seen those drone Instagram barndominium tour whatevers. Like they go viral on their own. If you just have that with a CTA, like I could almost bet that that will work.” — same
+88. “It is a simple, simple funnel. Instagram ad with one of those, you know, white text, you know, POV… range of price, click now, VSL, opt-in, call.” — same
+89. “The one to three million dollar per year range we have always referred to as the swamp.” — https://www.youtube.com/watch?v=qXte4ToUmDk
+90. “What do you do when you're in that situation? The honest truth is that you do both. You try and do even more unscalable things that can generate high profit margin so that you can take the bet on somebody that you know you need…” — same
+91. “Man, that sounds hard. It's like well, welcome to business and welcome to the reason that most people don't make it past that.” — same

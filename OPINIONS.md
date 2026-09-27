@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in public sources.
+Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in evidence.md.
 
 ## Offer craft ($100M Offers)
 
@@ -114,3 +114,9 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Vertical value when going broad:** Prefer content a starter and a $100M operator can both use; pure 1→10 niche tanks views but buys high-intent buyers.
 - **Make content from top spenders:** Look at the top ~20% of customers — common factors, messages, problems — and create topics that solve *those* problems. Expect views/subs down, sales up.
 - **Track with UTMs + in-video CTAs:** Attribution beats vanity; put UTMs on description links and CTAs inside videos.
+
+
+## Visual product ads / swamp bet mechanics (YT 2026-09-26)
+
+- **Visual products → simple IG funnel:** For highly visual builds (barndominiums, ornate vaults, underground shelters, man caves), drone/Instagram tour-style creative goes viral on its own. Pair with CTA → VSL → opt-in → call. If capacity can double with current staff, that funnel can be stood up in one sitting.
+- **$1–3M swamp = two hard bets at once:** With ~$400K net, escaping the swamp means *both* doing more unscalable high-margin work *and* hiring someone better (often at 1/3–1/2 of your income) to buy time back. Most people don't make it past that because both choices are hard — and the honest answer is you do both.
