@@ -133,3 +133,12 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 89. “The one to three million dollar per year range we have always referred to as the swamp.” — https://www.youtube.com/watch?v=qXte4ToUmDk
 90. “What do you do when you're in that situation? The honest truth is that you do both. You try and do even more unscalable things that can generate high profit margin so that you can take the bet on somebody that you know you need…” — same
 91. “Man, that sounds hard. It's like well, welcome to business and welcome to the reason that most people don't make it past that.” — same
+
+
+### Long-form — The Game Ep 1003 (2026-09-29)
+92. “if you play stupid games, you win stupid prizes… Play dumb games, win dumb prizes.” — https://podscripts.co/podcasts/the-game-with-alex-hormozi/a-video-to-watch-if-youre-ambitious-and-in-your-20s-or-30s-ep-1003
+93. “we work very hard, we sacrifice a lot. We get to the top of the podium and we're giving a trophy that we realize this is not where we want to be” — same
+94. “so many people live mediocre life because they play games that other people designed that even if they did win, they wouldn't want the prize.” — same
+95. “just because you know how to win, doesn't mean you should win, and it doesn't mean the game's worth playing.” — same
+96. “the business that plays the most dominant game wins.” — same
+97. “play your own games of your own design, where if you were to win, you would be happy with the W. And the price that it came at was one that you were willing to pay.” — same

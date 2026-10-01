@@ -120,3 +120,13 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 
 - **Visual products → simple IG funnel:** For highly visual builds (barndominiums, ornate vaults, underground shelters, man caves), drone/Instagram tour-style creative goes viral on its own. Pair with CTA → VSL → opt-in → call. If capacity can double with current staff, that funnel can be stood up in one sitting.
 - **$1–3M swamp = two hard bets at once:** With ~$400K net, escaping the swamp means *both* doing more unscalable high-margin work *and* hiring someone better (often at 1/3–1/2 of your income) to buy time back. Most people don't make it past that because both choices are hard — and the honest answer is you do both.
+
+
+## Own-game design / dominant games (The Game Ep 1003, 2026-09-29)
+
+- **Play dumb games, win dumb prizes:** Hard work to a podium you don't want — winning only in the eyes of people you don't care about — is tragic. Ask who designed the game and whether you want the prize.
+- **Design (or choose) the game:** If you're losing, ask: is this a game whose natural end I actually want? What's the price of winning? What's the benefit? Just because you know how to win doesn't mean you should, or that the game is worth playing.
+- **Comfort-game trap:** People stay in games where they understand the variables (e.g. fitness competition) and avoid being a beginner elsewhere (business/marketing/sales) — years spent without getting what they actually want.
+- **Dominant games beat inferior metrics:** The business that plays the most dominant game wins (e.g. Facebook optimizing monthly active users vs MySpace optimizing total users). Spoils of the inferior game accrue to whoever wins the superior one.
+- **Finite vs infinite frame:** Infinite-game players beat finite-game players (keep the game going vs "win the war"). Ask: Am I the designer? If not, do I want the prize? Am I willing to pay the global (not just local) price?
+- **Own scoreboard:** Compete to your standards; you don't need the $10 trophy. Play your own games of your own design — happy with the W, willing to pay the price.
