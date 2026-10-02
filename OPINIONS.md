@@ -130,3 +130,19 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Dominant games beat inferior metrics:** The business that plays the most dominant game wins (e.g. Facebook optimizing monthly active users vs MySpace optimizing total users). Spoils of the inferior game accrue to whoever wins the superior one.
 - **Finite vs infinite frame:** Infinite-game players beat finite-game players (keep the game going vs "win the war"). Ask: Am I the designer? If not, do I want the prize? Am I willing to pay the global (not just local) price?
 - **Own scoreboard:** Compete to your standards; you don't need the $10 trophy. Play your own games of your own design — happy with the W, willing to pay the price.
+
+
+## Scale-or-Fail repairs / high-volume service (The Game Ep 1004, 2026-10-01)
+
+- **Highest-return only when constrained:** Early / small businesses are time-and-money constrained — focus all effort on the highest-return activity already working (for Kaleb: door-to-door), not cute multi-channel experiments.
+- **Knowing how to go get money:** Reliable acquisition (e.g. knock N doors → a sale) is an entrepreneurial “extra life”; many founders never learn it.
+- **Cast-aside niche → systemize:** Orient the business around work others dismiss (high-volume repairs vs prestige replacements) when you can make strong gross profit and reliable volume.
+- **First sale hard; proximate sale easy:** Getting the first sale is the hard part; the next/upsell sale once you’re in is significantly easier — design the motion (VSL + menu) around that.
+- **VSL ≠ YouTube:** A VSL has a specific sell purpose (promise, proof, old-way/new-way, belief-breaking objections); scale the team with targeted VSLs, not generic channel content.
+- **Menu close:** Unsell what they don’t need (trust) → prescribe what they do → offer a fake A/B choice → card-on-file. Softens the close.
+- **Membership = appointment machine:** Paid maintenance/VIP membership’s strategic value is the recurring appointment to sell more work — not primarily the fee. Discount membership for a review as the carrot.
+- **Speed is all margin:** Let customers pay to jump the queue when the default window stays acceptable — reshuffling order for a premium makes more money without more resources.
+- **High-volume preference:** High-volume short-cycle work beats low-volume long-cycle (insurance, delayed payment) for stability, sales-rep practice, and cash-flow.
+- **Volume → reliability → lower costs:** Predictable volume lets you forecast and cut cost basis; early stage is feast-or-famine until there’s a heartbeat.
+- **Salespeople as the next avatar:** Once the motion works, market to recruit salespeople the way you market to customers.
+- **Zero vs zillion advice:** At zero the first steps are identical (LLC, accept money); at huge scale advice is unique — early-stage playbooks stay simple.

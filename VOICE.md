@@ -142,3 +142,15 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 95. “just because you know how to win, doesn't mean you should win, and it doesn't mean the game's worth playing.” — same
 96. “the business that plays the most dominant game wins.” — same
 97. “play your own games of your own design, where if you were to win, you would be happy with the W. And the price that it came at was one that you were willing to pay.” — same
+
+
+### Spoken — The Game Ep 1004 (2026-10-01)
+98. “Getting the first sale is the hard part. Getting the proximate sale is significantly easier.” — The Game Ep 1004, https://pod.wave.co/podcast/the-game-with-alex-hormozi-1/how-i-would-build-a-10m-service-business-if-i-had-to-start-over-ep-1004
+99. “I don't think we need to be cute about this… just get really violent with it.” — same
+100. “usually you need to go all in on door to door. It's what you're good at.” — same
+101. “We don't even care about the money. We care about the fact that we're gonna have an appointment… then… sell more stuff.” — same (membership)
+102. “speed's all margin… reshifting the order of the work by allowing people to spend more to go first just makes more money.” — same
+103. “I love high volume businesses… Just because there's more stability.” — same
+104. “with volume comes reliability. And with reliability, you can… decrease costs because you can forecast.” — same
+105. “If you're at zero, the steps are identical. And if you're at a zillion, their steps are entirely unique.” — same
+106. “knowing how to go get money is one of the ways to do that.” — same (entrepreneurial lives)
