@@ -154,3 +154,14 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 104. “with volume comes reliability. And with reliability, you can… decrease costs because you can forecast.” — same
 105. “If you're at zero, the steps are identical. And if you're at a zillion, their steps are entirely unique.” — same
 106. “knowing how to go get money is one of the ways to do that.” — same (entrepreneurial lives)
+
+
+### Spoken — YT Scale-or-Fail competition (2026-10-02)
+107. “the fastest way to build a $10 million business isn't the fastest way to build a hundred million dollar business… it's just as important to build it fast as it is to build it right.” — https://www.youtube.com/watch?v=eq1bnI0JoXU
+108. “you don't learn anything by debating in your head or debating in a room or debating amongst people on your team. You just learn by executing ruthlessly.” — same
+109. “the most central skill of being an entrepreneur… is sales… The game of entrepreneurship of selling never really ends.” — same
+110. “you cannot educate a customer more and have them be less likely to buy… unless you have a terrible product” — same
+111. “Nothing sells like proof.” — same
+112. “whenever I'm selling anything, I always have to start with… reverse engineer from the prospect… fast growing, highly profitable, defensible.” — same
+113. “you can have absolutely violent commitment to a plan and achieve years worth of results in 90 days… you can change your stars in a very short period of time.” — same
+114. “The average increase in revenue of all these contestants was 2.4x in 90 days… because they had a very clear plan based on where they were at right now.” — same

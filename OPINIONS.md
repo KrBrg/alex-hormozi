@@ -146,3 +146,14 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Volume → reliability → lower costs:** Predictable volume lets you forecast and cut cost basis; early stage is feast-or-famine until there’s a heartbeat.
 - **Salespeople as the next avatar:** Once the motion works, market to recruit salespeople the way you market to customers.
 - **Zero vs zillion advice:** At zero the first steps are identical (LLC, accept money); at huge scale advice is unique — early-stage playbooks stay simple.
+
+
+## Scale-or-Fail competition / change-your-stars (YT 2026-10-02)
+
+- **Violent commitment to a clear plan:** Years of results can compress into ~90 days when the plan matches where the business is now and execution is ruthless — “change your stars” even from a bad starting point.
+- **Growth then adherence:** Short-term revenue growth qualifies; adherence to the right build matters for the long game — the fastest path to $10M is not the fastest path to $100M; build it fast *and* build it right.
+- **Execute > debate:** Test and learn by doing. Debating in your head, a room, or a team teaches nothing next to ruthless execution.
+- **Sales never ends:** Central entrepreneurial skill — selling investors, employees, customers, and through marketing. The sales game does not stop.
+- **Educate toward the buy:** You cannot educate a customer more and make them *less* likely to buy (unless the product is terrible and they discover it). Pair with “nothing sells like proof.”
+- **Reverse-engineer the pitch:** Start from what the prospect (including an investor) wants — e.g. fast-growing, highly profitable, defensible — not from your biography.
+- **Scaling roadmap / patterns:** Clear stage-matched plans (same roadmap contestants followed) beat vague grit; businesses rhyme more than founders think.
