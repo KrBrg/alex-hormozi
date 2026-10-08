@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in evidence.md.
+Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in his public writing and speech.
 
 ## Offer craft ($100M Offers)
 
