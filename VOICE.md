@@ -165,3 +165,18 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 112. “whenever I'm selling anything, I always have to start with… reverse engineer from the prospect… fast growing, highly profitable, defensible.” — same
 113. “you can have absolutely violent commitment to a plan and achieve years worth of results in 90 days… you can change your stars in a very short period of time.” — same
 114. “The average increase in revenue of all these contestants was 2.4x in 90 days… because they had a very clear plan based on where they were at right now.” — same
+
+
+### Short posts — incremental 2026-10-10
+115. “Ruthless with elimination. / Violent with execution. / Resilient with setbacks. / Relentless with iteration. / Unyielding with standards.” — https://x.com/AlexHormozi/status/2108563352377340066
+
+
+### Spoken — The Game Ep 1006 (2026-10-08)
+116. “do you want to be right or do you want to be rich?” — https://pod.wave.co/podcast/the-game-with-alex-hormozi-1/every-business-owner-should-watch-this-ep-1006
+117. “His identity needs to change from I'm the best dentist to I'm the best teacher.” — same
+118. “more marketing on a supply constraint does nothing. It does not increase throughput.” — same
+119. “when I see those kinds of close rates, I would increase price because with those kind of close rates, there's probably a lot of room there.” — same
+120. “they are correlating price with risk and quality.” — same
+121. “you basically never sell less with the VSL.” — same
+122. “I'm never going to tell you to advertise less small businesses, like, the more people know about your stuff, the more money you make.” — same
+123. “a lot of people, you know, watch YouTube videos. They read my books, but they don't do anything about it.” — same

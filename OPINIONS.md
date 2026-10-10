@@ -157,3 +157,18 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Educate toward the buy:** You cannot educate a customer more and make them *less* likely to buy (unless the product is terrible and they discover it). Pair with “nothing sells like proof.”
 - **Reverse-engineer the pitch:** Start from what the prospect (including an investor) wants — e.g. fast-growing, highly profitable, defensible — not from your biography.
 - **Scaling roadmap / patterns:** Clear stage-matched plans (same roadmap contestants followed) beat vague grit; businesses rhyme more than founders think.
+
+
+## Scale or Fail: dental practice constraint / price / VSL (The Game Ep 1006, 2026-10-08)
+
+- **Find the real constraint first:** One doctor doing every visit capped the practice. If the business is supply constrained, more marketing does nothing — it doesn't increase throughput. Fix delivery capacity first, then pour in lead flow (never advertise less, but don't buy demand you can't serve).
+- **Split delivery by skill:** Map every step of delivery, ask which ones truly need the founder. Hand the easier visits to associates and keep the founder on diagnosis and the hard work — that alone doubles capacity.
+- **Founder identity shift:** The founder moves from "I'm the best dentist" to "I'm the best teacher" — architect/conductor, with other people as the hands. Be right or be rich.
+- **Edify the handoff:** The lead practitioner personally introduces and endorses the next one (a short video works), so patients accept the split.
+- **High close rate = raise price:** When close rates sit near 85–90%, there's a lot of room. Keep raising while conversion × price keeps rising; even a 50% raise with 10% fewer sales is still worth keeping. Richer, high-risk buyers correlate price with risk and quality.
+- **Pay now by default:** Make upfront payment (card or financing) the normal path, collect the card on the way in, and prepay is easy to justify because the whole treatment must be paid anyway.
+- **VSL between consult and close:** Promise, proof across avatars, old-way/new-way big idea, and objection → "what people think / why it's wrong / what's true / proof". You basically never sell less with the VSL.
+- **Speed to lead:** For high-intent paid search, respond in about 60 seconds; the first responder wins. Long booking windows (15–30 days) bleed pained, shopping patients.
+- **Capture the reveal:** Build content capture into delivery (before/after, reaction moments) and post story, carousel, and case-study versions with a CTA to lead gen.
+- **Stages differ by function:** A business can sit at different roadmap stages in marketing, sales, and delivery; do the next step, not everything.
+- **Consume vs implement:** Many people watch videos and read the books but never act; credit goes to the one who implements.
