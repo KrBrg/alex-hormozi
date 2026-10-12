@@ -172,3 +172,7 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Capture the reveal:** Build content capture into delivery (before/after, reaction moments) and post story, carousel, and case-study versions with a CTA to lead gen.
 - **Stages differ by function:** A business can sit at different roadmap stages in marketing, sales, and delivery; do the next step, not everything.
 - **Consume vs implement:** Many people watch videos and read the books but never act; credit goes to the one who implements.
+
+## Keeping leaders: the gone test (X, 2026-10-11)
+
+- **Gone test for a leader:** If you're unsure whether to keep a leader, imagine what would happen if they were gone. If the answer is "nothing", that's probably what they're doing.

@@ -180,3 +180,6 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 121. “you basically never sell less with the VSL.” — same
 122. “I'm never going to tell you to advertise less small businesses, like, the more people know about your stuff, the more money you make.” — same
 123. “a lot of people, you know, watch YouTube videos. They read my books, but they don't do anything about it.” — same
+
+### Short posts — incremental 2026-10-12
+124. “If you're not sure about whether to keep a leader, imagine what would happen if they were gone. If the answer is "nothing", then that's probably what they're doing.” — https://x.com/AlexHormozi/status/2109326107367637463
