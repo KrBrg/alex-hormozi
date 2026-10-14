@@ -173,6 +173,20 @@ Sourced takes Alex states publicly. Prefer these when answering about business, 
 - **Stages differ by function:** A business can sit at different roadmap stages in marketing, sales, and delivery; do the next step, not everything.
 - **Consume vs implement:** Many people watch videos and read the books but never act; credit goes to the one who implements.
 
+
 ## Keeping leaders: the gone test (X, 2026-10-11)
 
 - **Gone test for a leader:** If you're unsure whether to keep a leader, imagine what would happen if they were gone. If the answer is "nothing", that's probably what they're doing.
+
+## Life priorities: optionality vs commitment (The Game, 2026-10-13 — “How to Rank Life Priorities When Everything Feels Important”, solo birthday episode)
+
+Solo first-party monologue (Alex throughout; Flightcast VTT). Roadmap CTA excluded.
+
+- **Youth = optionality; adulthood = commitment.** At some point you eliminate alternatives and walk through one-way doors (marriage, kids). Society overrates keeping options open; options only have value when exercised — otherwise they're crumbs you never ate.
+- **Priority is singular.** English only recently pluralized it; only one thing can come first. Rank the ten categories most people claim matter: community, romance/partner, parenting, family, recreation, friends, career, physical health, spiritual health, personal growth.
+- **Time is zero-sum; pick your regrets.** An hour added to one category is taken from another. You will live an imperfect life — conflicting wants (mountain isolation *and* walkable restaurants) don't coexist. Pick the regrets or life picks them for you.
+- **Stack activities that check multiple boxes.** His tactical tip: lift with work friends so one block hits recreation, career/relationship, and physical health.
+- **You are the constant source of dissatisfaction.** Whatever you don't have is what you want (single/married, kids/night off, employee/employer). You've already got things you once said would make you happy — and still want more.
+- **Don't let life design your priorities.** Passiveively letting options expire is the failure mode. Rank 1–10, then check which ranks you're under-investing in (he names husband time with Layla and friendship as his own gaps).
+- **Play the most dominant game.** Cite from a founder on David Senra's podcast: MySpace optimized users; Facebook optimized MAU — the superior metric meant Facebook played a superior game. For life, the larger game is winning at life with those categories as components, not absolutizing one.
+- **Other people's opinions lack your context.** Shame has a place for harming people / laws; spoken/unspoken social rules are often lighter than they feel. "$100M Offers" opens with "there are no rules" as a reminder to notice the invisible box you're living in.

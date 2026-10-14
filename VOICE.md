@@ -181,5 +181,19 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 122. “I'm never going to tell you to advertise less small businesses, like, the more people know about your stuff, the more money you make.” — same
 123. “a lot of people, you know, watch YouTube videos. They read my books, but they don't do anything about it.” — same
 
+
 ### Short posts — incremental 2026-10-12
 124. “If you're not sure about whether to keep a leader, imagine what would happen if they were gone. If the answer is "nothing", then that's probably what they're doing.” — https://x.com/AlexHormozi/status/2109326107367637463
+
+### Spoken — The Game life-priorities birthday episode (2026-10-13)
+125. “Your level of maturity is inversely correlated with how much you want other people to celebrate your birthday.” — https://podcastrex.com/shows/the-game-with-alex-hormozi/how-to-rank-life-priorities-when-everything-feels-important
+126. “I think the goal of youth is optionality and the goal of adulthood is commitment.” — same
+127. “options only have value when they are exercised. And until you exercise them, they are valueless.” — same
+128. “you get to pick your regrets or they will be chosen for you.” — same
+129. “We have a zero sum life when it comes to time” — same
+130. “Try to do things that check multiple boxes.” — same
+131. “I am the problem… the constant source of dissatisfaction is me.” — same
+132. “If you like the priorities that you have, then fuck, you won.” — same
+133. “you always want to look for the most dominant game.” — same
+134. “the reason that I opened the book with offers with only three words, which is there are no rules.” — same
+
