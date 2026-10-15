@@ -197,3 +197,11 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 133. “you always want to look for the most dominant game.” — same
 134. “the reason that I opened the book with offers with only three words, which is there are no rules.” — same
 
+
+### Spoken — Case Against AI (The Game Ep 993, Flightcast VTT)
+135. “the big misconception I think around AI is that AI somehow canceled every other form of leverage.” — https://rss.flightcast.com/transcripts/01M093XD5B7J1WFXDG9BMQ1XRE.vtt
+136. “If AI didn't exist, we still would have had the increase.” — same
+137. “I know you need to have public appearances saying, of course, we're, you know, I'm a super AI advocate because you have to do that. But... how much are you actually using AI every day?” — same
+138. “If you don't know what the constraint of the business is, you're just doing more shit automated does not make you more money.” — same
+139. “Making good decisions.” — same (as highest leverage, higher than AI)
+140. “AI is just a tool. It's not the answer.” — same
