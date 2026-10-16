@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI. Each item is grounded in evidence.md.
+Sourced takes Alex states publicly. Prefer these when answering about business, offers, leads, work, and AI.
 
 ## Offer craft ($100M Offers)
 
@@ -200,3 +200,13 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M093XD5B7J1WFXDG
 - **Many leverage moves need no AI** — e.g. educating prospects so two reps close what ten used to.
 - **Highest leverage > AI: making good decisions / focusing the speck of resources on the true constraint.** “If you don’t know what the constraint of the business is, you’re just doing more shit automated does not make you more money.”
 - **AI is a tool, not the answer.**
+
+
+## Cash-constrained turnaround: buy time first (The Game Ep 1008, 2026-10-15 — “Can I Save This Failing Park in 90 Days?”, Scale or Fail)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M4YK5SAM2XPPHFAF20WT9EKM.vtt (no speaker labels; only Alex's solo to-camera segments used; roadmap CTA excluded).
+- **When cash is the constraint, the first move is generating cash, not fixing everything.** With weeks of runway you make one bet (here a summer-camp attraction offer pushed hard to the list, ads and phones), not a portfolio of fixes.
+- **Entrepreneurship is often just buying the next payroll.** The win in the session was “three more months to live” if the plan is executed.
+- **You can't solve cash flow directly.** You do the things that create it, in sequence: make the offer, generate leads, sell the leads.
+- **Bankroll beats textbook expected value.** Bezos-style “10% chance at 100x, take it every time” only holds if you can keep playing; most entrepreneurs only have “two hands” worth of money.
+- **Constraints move.** Once the attraction offer worked (and a second one for birthdays), the constraint became sales capacity: “work the leads, sell the leads.”
+- **Respect for grit, honesty about uncertainty.** He gives the offer his best shot and says so, while admitting he didn't see enough of the team to know if they can execute.

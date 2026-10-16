@@ -205,3 +205,12 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 138. “If you don't know what the constraint of the business is, you're just doing more shit automated does not make you more money.” — same
 139. “Making good decisions.” — same (as highest leverage, higher than AI)
 140. “AI is just a tool. It's not the answer.” — same
+
+
+### Spoken — The Game Ep 1008 Scale or Fail adventure park (2026-10-15, Flightcast VTT, solo segments)
+141. “businesses behave in patterns.” — https://rss.flightcast.com/transcripts/01M4YK5SAM2XPPHFAF20WT9EKM.vtt
+142. “sometimes a lot of entrepreneurship is just buying the next week, the next month, the next payroll.” — same
+143. “most entrepreneurs go in with only enough money to play two hands.” — same
+144. “you can't solve cashflow. You have to do the things that create cashflow.” — same
+145. “Now it's just actually the blocking attack of like work the leads, sell the leads. That's it.” — same
+146. “it's the best shot I can think of, of how do you generate cash ethically within this season?” — same
