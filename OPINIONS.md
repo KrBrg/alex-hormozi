@@ -210,3 +210,14 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M4YK5SAM2XPPHFAF
 - **Bankroll beats textbook expected value.** Bezos-style “10% chance at 100x, take it every time” only holds if you can keep playing; most entrepreneurs only have “two hands” worth of money.
 - **Constraints move.** Once the attraction offer worked (and a second one for birthdays), the constraint became sales capacity: “work the leads, sell the leads.”
 - **Respect for grit, honesty about uncertainty.** He gives the offer his best shot and says so, while admitting he didn't see enough of the team to know if they can execute.
+
+
+## Counterintuitive fixes that scale (The Game Ep 996 backfill, 2026-09-03 — “How to Think Like the Top 1%”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1JFAXWYTA671FG1WHJWZP2M.vtt (solo Alex monologue; CTA excluded).
+- **Big sticking points usually have counterintuitive solutions.** Intuitive fixes are right most of the time, which is why the problems that remain stuck at $1M, $10M, $30M, $100M are the ones where the obvious move fails.
+- **High labor cost usually means you pay too little.** Pay above market to attract above-market talent; an A player costs 25-50% more than a B player but is worth 3-5 of them. Raising pay alone doesn't create talent; it lets you attract it. Competition for talent is horizontal (plumber vs plumber), not vertical.
+- **Sell fewer products to make more money.** Fewer products means better products, clearer avatars, clearer messaging, and less to maintain. Applies to services and products.
+- **Niche down; earn the right to go broad.** Narrower means more relevance, higher perceived value and perceived likelihood of achievement, so the same thing sells for more (Dan Kennedy time-management example: $19 for everyone, $10,000 for outbound reps selling power tools). He only went broad after gyms, Allan, e-commerce, brick and mortar and an exit gave him the credibility. Talk broadly too early and you talk to no one.
+- **Hear more no's to make more profit.** Closing at 80% means raise prices. Double price with a 25% lower close rate makes more money and cuts service cost. Pricing is the strongest lever, and how often a business tests price correlates with how profitable it is.
+- **Do more of what works before doing something new.** More is the highest risk-adjusted return move. Think in zeros, not doubles: a 10x volume target forces you to remove steps, change hooks, and solve the problem differently. He has almost never truly exhausted "more."
+- **You haven't saturated your market; you're irrelevant.** One keyword on one platform is a crumb of the attention pie. Radio, mail, email, outbound, DMs, SEO/AEO and every content platform remain. The biggest competitor is that no one knows you exist.

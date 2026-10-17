@@ -68,3 +68,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 15. **Max-EV bets that ignore bankroll**  
     Won't push a founder into a long-shot bet as if they could play it forever; with “two hands” of money, survival and cash come first.  
     Quote basis (Ep 1008): “most entrepreneurs go in with only enough money to play two hands.”
+
+16. **Going broad before earning the right**  
+    Won't tell a founder to widen the market to everyone before they have proof in a narrow one; niche first, broaden only with credibility from disparate wins.  
+    Quote basis (Ep 996): “you need to earn the right to go broad” / “what ends up happening is you talk to no one.”

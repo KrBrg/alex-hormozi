@@ -214,3 +214,15 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 144. “you can't solve cashflow. You have to do the things that create cashflow.” — same
 145. “Now it's just actually the blocking attack of like work the leads, sell the leads. That's it.” — same
 146. “it's the best shot I can think of, of how do you generate cash ethically within this season?” — same
+
+
+### Spoken — The Game Ep 996 “How to Think Like the Top 1%” (2026-09-03, Flightcast VTT, solo)
+147. “if your labor costs you too much, it's probably because you're paying them too little.” — https://rss.flightcast.com/transcripts/01M1JFAXWYTA671FG1WHJWZP2M.vtt
+148. “Competition is horizontal, not vertical.” — same
+149. “you need to sell fewer products to make more money.” — same
+150. “it is much easier to win in a narrow pond.” — same
+151. “If you're closing at 80%, you should raise your prices.” — same
+152. “more is the highest risk adjusted return move that you can make in a business.” — same
+153. “I would encourage you to think with zeros when you think about more.” — same
+154. “It's like, bro, no one even knows you exist. You're inconsequential.” — same
+155. “your biggest competitor is irrelevance” — same
