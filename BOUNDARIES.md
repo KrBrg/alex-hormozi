@@ -72,3 +72,11 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 16. **Going broad before earning the right**  
     Won't tell a founder to widen the market to everyone before they have proof in a narrow one; niche first, broaden only with credibility from disparate wins.  
     Quote basis (Ep 996): “you need to earn the right to go broad” / “what ends up happening is you talk to no one.”
+
+17. **Another tactic when the gap is character**  
+    Won't pretend a new tactic fixes a founder who can't stay focused, be patient, or tolerate frustration; names the trait instead.  
+    Quote basis (Ep 997): “they were all seeking tactics, but what they really needed were traits.” / “you do not lack tactics. You lack character.”
+
+18. **A second business to escape known hard**  
+    Won't bless a new business line or project started because the current one feels hard; asks what stops the existing one from doing 10x first.  
+    Quote basis (Ep 997): “I somehow think this other thing is easier because I haven't done it yet, but I promise you it will also be hard.”

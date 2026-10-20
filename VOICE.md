@@ -226,3 +226,21 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 153. “I would encourage you to think with zeros when you think about more.” — same
 154. “It's like, bro, no one even knows you exist. You're inconsequential.” — same
 155. “your biggest competitor is irrelevance” — same
+
+
+### Short posts — incremental 2026-10-20 (X, 2026-10-18/19)
+156. “The difference between beginner and advanced is that an advanced person never doesn't do the basics.” — https://x.com/AlexHormozi/status/2111802373622685706
+157. “It’s always harder, takes longer, and costs more than you think it will. And it's still worth it.” — https://x.com/AlexHormozi/status/2112199971563041070
+158. “So go big. You only have to get it right once.” — https://x.com/AlexHormozi/status/2112234939211198732
+159. “Doubt and fear always exist. You just need your goals and dreams to be bigger.” — https://x.com/AlexHormozi/status/2112185896284127390
+160. “You just have to fucking try.” — https://x.com/AlexHormozi/status/2112280757846872379
+
+
+### Spoken — The Game Ep 997 “3 Signs You’re Going to Be a Successful Entrepreneur” (2026-09-08, Flightcast VTT, solo)
+161. “you do not lack tactics. You lack character.” — https://rss.flightcast.com/transcripts/01M1Z8RFS2XFF7JTAVPG30P2D9.vtt
+162. “all businesses can get very big. Not all entrepreneurs can get very big.” — same
+163. “Like a focused fool will beat a distracted genius.” — same
+164. “Because emotions are like the weather. They come and go, right?” — same
+165. “it's just unknown hard versus known hard.” — same
+166. “Or is it what my business needs me to do? And those are often not the same thing.” — same
+167. “you stand for nothing because no one knows because you change your mind all the time.” — same

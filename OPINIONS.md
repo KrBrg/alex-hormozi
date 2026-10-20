@@ -221,3 +221,23 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1JFAXWYTA671FG1
 - **Hear more no's to make more profit.** Closing at 80% means raise prices. Double price with a 25% lower close rate makes more money and cuts service cost. Pricing is the strongest lever, and how often a business tests price correlates with how profitable it is.
 - **Do more of what works before doing something new.** More is the highest risk-adjusted return move. Think in zeros, not doubles: a 10x volume target forces you to remove steps, change hooks, and solve the problem differently. He has almost never truly exhausted "more."
 - **You haven't saturated your market; you're irrelevant.** One keyword on one platform is a crumb of the attention pie. Radio, mail, email, outbound, DMs, SEO/AEO and every content platform remain. The biggest competitor is that no one knows you exist.
+
+
+## Short-post convictions: basics, asymmetric wins, worth it anyway (X, 2026-10-18/19)
+Sources: https://x.com/AlexHormozi/status/2111802373622685706 , https://x.com/AlexHormozi/status/2112234939211198732 , https://x.com/AlexHormozi/status/2112199971563041070 , https://x.com/AlexHormozi/status/2112185896284127390 , https://x.com/AlexHormozi/status/2112280757846872379
+- **Advanced = never skipping the basics.** The difference between beginner and advanced is that the advanced person always does the basics.
+- **Win size beats loss count.** Success has almost nothing to do with how many times you lose and everything to do with how much you win when you win. So go big; you only have to get it right once.
+- **Everything costs more than planned, and it's still worth it.** It's always harder, takes longer, and costs more than you think.
+- **Make the goals bigger than the fear.** Doubt and fear always exist; you don't remove them, you outgrow them with bigger goals and dreams. You won't find out what you're capable of from a warm bed.
+- **Take the shot, ask again.** What you want sits on the other side of trying, asking again, and not caring what others think until you get it.
+
+## Traits over tactics: focus, patience, frustration tolerance (The Game Ep 997 backfill, 2026-09-08 — “3 Signs You’re Going to Be a Successful Entrepreneur”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1Z8RFS2XFF7JTAVPG30P2D9.vtt (solo Alex monologue; roadmap CTA excluded).
+- **What limits $1M-$50M founders is rarely tactics.** They come asking for tactics, but what they need are traits. All businesses can get very big; not all entrepreneurs can.
+- **Three traits: focus, patience, frustration tolerance.** Do one thing, for a long time, and keep going while getting kicked. Humans want new, now, and easy, which is the antithesis of what business requires.
+- **Focus beats intelligence.** A focused fool beats a distracted genius. Great things come from doing more work in a narrow place than others are willing to do.
+- **Advise yourself like an outsider.** Ask what the most dangerous competitor would do in your exact situation. People give better advice than they follow (Solomon paradox) because they have no emotional tie.
+- **Don't act just to change how you feel.** Ask whether the action is to make the emotion go away or what the business needs; they are often not the same. Emotions are like the weather; let them pass and keep doing the thing.
+- **Constant pivots whiplash team and customers.** Changing priorities every week produces confused messaging and marketing, so you stand for nothing.
+- **Known hard beats unknown hard.** Before a second business or revenue line, ask what logically stops the current one from doing 2x, 5x, 10x. The new thing only looks easier because you haven't done it yet.
+- **Patience = surface area of thinking.** Put many coats of paint on the same problem over time, in different moods and through different lenses; that is where complete, elegant solutions come from.
