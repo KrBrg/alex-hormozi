@@ -241,3 +241,23 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1Z8RFS2XFF7JTAV
 - **Constant pivots whiplash team and customers.** Changing priorities every week produces confused messaging and marketing, so you stand for nothing.
 - **Known hard beats unknown hard.** Before a second business or revenue line, ask what logically stops the current one from doing 2x, 5x, 10x. The new thing only looks easier because you haven't done it yet.
 - **Patience = surface area of thinking.** Put many coats of paint on the same problem over time, in different moods and through different lenses; that is where complete, elegant solutions come from.
+
+
+## Short-post convictions: elimination, talent, 0 to 1 vs 1 to N (X, 2026-10-20/21)
+Sources: https://x.com/AlexHormozi/status/2112601462048227600 , https://x.com/AlexHormozi/status/2112612288515768619 , https://x.com/AlexHormozi/status/2112570412752355466 , https://x.com/AlexHormozi/status/2112581581957406980 , https://x.com/AlexHormozi/status/2112659621181845541 , https://x.com/AlexHormozi/status/2112950495958700344
+- **Elite teams are built by elimination.** Your worst person is your acceptable standard; raise the bar from the bottom, not by expanding the top.
+- **Elimination beats automation.** The most efficient version of a task is not doing it at all.
+- **Growth problems are usually talent problems.** You didn't over-expand; you under-talented.
+- **0 to 1 is the fun, 1 to N is the money.**
+- **Problems and opportunities are the same thing seen from two sides.**
+- **Cut people who need you to fail.** Many people want you to fail to justify the risks they chose not to take; remove them ruthlessly.
+
+## Three questions for making bets (The Game Ep 1009, 2026-10-20 — “Learn 97% of How to Get Rich in 11 Mins”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M5A5NGSTBSA1DY1AC1G8VP52.vtt (solo Alex monologue; roadmap CTA excluded).
+- **When someone asks to do something: "What problem are you trying to solve?"** People act on emotional discomfort and do what they know how to do instead of what's needed. A lot of lack of focus is intellectual laziness.
+- **When he wants something: "What would it take?"** It assumes success. "Can we / could we" invites people to decide on his behalf with incomplete context; "what would it take" surfaces the real cost so he can decide.
+- **Follow-up: "What do you want to have happen?"** Cuts past the emotional noise to the outcome.
+- **Interrogate a line of thinking with three in a row: what does that mean, how do you know that, so what.** Then ask what else that time and energy could do for a higher return.
+- **Questions are weapons.** They reveal how deep someone's thinking goes, on both sides.
+- **Do nothing is the undefeated heavyweight champion.** Most proposals end at "maybe we shouldn't do this," and that's usually right: keep resources on what already gets the highest return.
+- **Engagement comes from the environment, not one-offs.** An ongoing environment that rewards high effort and removes people who suck beats "kumbaya" events.

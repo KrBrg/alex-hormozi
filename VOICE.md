@@ -244,3 +244,21 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 165. “it's just unknown hard versus known hard.” — same
 166. “Or is it what my business needs me to do? And those are often not the same thing.” — same
 167. “you stand for nothing because no one knows because you change your mind all the time.” — same
+
+
+### Short posts — incremental 2026-10-22 (X, 2026-10-20/21)
+168. “You didn't over-expand. You under-talented.” — https://x.com/AlexHormozi/status/2112570412752355466
+169. “0 to 1 is where all the fun is had. 1 to N is where all the money is made.” — https://x.com/AlexHormozi/status/2112581581957406980
+170. “Your worst person is your acceptable standard. You literally accept them.” — https://x.com/AlexHormozi/status/2112601462048227600
+171. “The only thing more efficient than automation is elimination” — https://x.com/AlexHormozi/status/2112612288515768619
+172. “Problems are your opportunities. And opportunities are your problems.” — https://x.com/AlexHormozi/status/2112659621181845541
+173. “A lot of people want to see you fail to justify the risks they chose not to take. Remove them from your life, ruthlessly.” — https://x.com/AlexHormozi/status/2112950495958700344
+
+### Spoken — The Game Ep 1009 “Learn 97% of How to Get Rich in 11 Mins” (2026-10-20, Flightcast VTT, solo)
+174. “what problem are you trying to solve?” — https://rss.flightcast.com/transcripts/01M5A5NGSTBSA1DY1AC1G8VP52.vtt
+175. “a lot of lack of focus is actually intellectual laziness.” — same
+176. “I'll say, what would it take? And so I almost always wrap my questions with what would it take? Because it assumes success.” — same
+177. “What do you want to have happen?” — same
+178. “Cause I see, I see questions like weapons” — same
+179. “And I'm like, bro, I can tell you what I mean because I thought about it.” — same
+180. “the undefeated heavyweight champion of the world is do nothing.” — same
