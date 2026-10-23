@@ -261,3 +261,18 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M5A5NGSTBSA1DY1A
 - **Questions are weapons.** They reveal how deep someone's thinking goes, on both sides.
 - **Do nothing is the undefeated heavyweight champion.** Most proposals end at "maybe we shouldn't do this," and that's usually right: keep resources on what already gets the highest return.
 - **Engagement comes from the environment, not one-offs.** An ongoing environment that rewards high effort and removes people who suck beats "kumbaya" events.
+
+## Short-post convictions: make, keep, give (X, 2026-10-22)
+Source: https://x.com/AlexHormozi/status/2113253907401155047
+- **Money has levels.** Level 1 is what you make, level 2 is what you keep, level 3 is what you give.
+
+## One thing per year: goal chains, strategy, big bets (The Game Ep 994 backfill, 2026-08-27 — “3 Stages of Building a Personal Brand”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M0ZZB6MX81A8D9V1E3J3D895.vtt (solo Alex monologue; roadmap CTA excluded).
+- **Output, not hours.** What makes someone dangerous is how much work they get done, not how much they work. You don't need to do more; you need to get the big stuff done.
+- **The yearly question.** If only one thing could happen this year that would make the rest of the goals accomplished or irrelevant by consequence, what is it? That answer is the year's priority; how resources are allocated to it is the strategy.
+- **Goals chain year to year.** His own run: consulting job, ace the GMAT, quit and start a gym, make the gym make money, more locations, launch other people's gyms and sell his own, fix the Gym Launch money model, scale to $2M/month, Prestige Labs for retention, sell both, figure out Acquisition.com's investing model, go pro on social, launch the advisory practice, break the book-sales record, then legacy/traditional media credibility. One goal per year, each unlocking the next.
+- **Strategy = curation + prioritization of opportunities.** See the full universe of options, then choose which few you'll actually do. Everything else is an amorphous definition.
+- **Go big.** Big goals and small goals take about the same work, so small goals are a poor use of resources. People wildly underestimate the upside and overestimate the downside.
+- **Look as far ahead as your bills allow.** First solve rent, then six months, then a year, then personal needs, then business needs. Save aggressively, not to avoid living but to go on offense and save swings for the fat pitch.
+- **Bet on yourself.** Make the first bet once and watch yourself figure it out; faith in "future me" is built from small bets that get bigger. Go all in on you: no one else will, and the returns are highest there.
+- **Brands are gardens.** You don't build one and finish; you maintain it.

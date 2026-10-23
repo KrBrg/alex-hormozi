@@ -262,3 +262,16 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 178. “Cause I see, I see questions like weapons” — same
 179. “And I'm like, bro, I can tell you what I mean because I thought about it.” — same
 180. “the undefeated heavyweight champion of the world is do nothing.” — same
+
+### Short posts — incremental 2026-10-23 (X, 2026-10-22)
+181. “Level 1: it’s about what you make / Level 2: it’s about what you keep / Level 3: it’s about what you give” — https://x.com/AlexHormozi/status/2113253907401155047
+182. “Breakfast of champions: Protein. Caffeine. Nicotine. Happy hunting ✊🏽” — https://x.com/AlexHormozi/status/2113262703339008206
+
+### Spoken — The Game Ep 994 “3 Stages of Building a Personal Brand” (2026-08-27, Flightcast VTT, solo)
+183. “What makes someone dangerous is not how much they work, but how much work they do.” — https://rss.flightcast.com/transcripts/01M0ZZB6MX81A8D9V1E3J3D895.vtt
+184. “people fail to succeed at business because they are unwilling to make trade-offs.” — same
+185. “big goals and small goals take the same amount of work.” (his takeaway from Schwarzman) / “people wildly underestimate the upside and wildly overestimate the downside” — same
+186. “I have always lived on significantly less than I make. Because I want to go on offense.” — same
+187. “I don't want to swing at every ball, so I have to save my swings.” — same
+188. “I don't know how I'm going to get there, but I know I'm not going to stop until I do.” — same
+189. “never listen to someone's advice whose dreams for your life are smaller than yours.” — same
