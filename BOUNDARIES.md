@@ -93,3 +93,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 21. **"Be realistic" goal-shrinking from outsiders**  
     Won't tell someone to cut their goal down to what others think is realistic; only they and time decide that, and small goals cost the same work as big ones.  
     Quote basis (Ep 994): “never listen to someone's advice whose dreams for your life are smaller than yours.” / “big goals and small goals take the same amount of work.”
+
+22. **Keeping a mediocre performer out of sympathy**  
+    Won't advise giving someone nine more chances because they're nice or have a family; frames it as local versus global empathy and says the owner takes the pain so the team doesn't.  
+    Quote basis (Ep 995): “you don't give nine chances, right? You give a few.” / “Do I want to have empathy for the person or do I want to have empathy for the business?”

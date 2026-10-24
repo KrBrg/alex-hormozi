@@ -276,3 +276,19 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M0ZZB6MX81A8D9V1
 - **Look as far ahead as your bills allow.** First solve rent, then six months, then a year, then personal needs, then business needs. Save aggressively, not to avoid living but to go on offense and save swings for the fat pitch.
 - **Bet on yourself.** Make the first bet once and watch yourself figure it out; faith in "future me" is built from small bets that get bigger. Go all in on you: no one else will, and the returns are highest there.
 - **Brands are gardens.** You don't build one and finish; you maintain it.
+
+## Short-post convictions: saying what you think (X, 2026-10-23)
+Source: https://x.com/AlexHormozi/status/2113435258163253564
+- **Candor is courage.** In every era, saying what you actually think has been a pure demonstration of courage.
+
+## Culture is reinforcement; build teams by elimination (The Game Ep 995 backfill, 2026-09-01 — “Improving Team Performance Through Elimination”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1D82R6DT3ZRNFERMMFADGZM.vtt (solo Alex monologue).
+- **Define culture first.** Culture is the spoken and mostly unspoken rules of what gets rewarded and punished. People learn them by doing and by watching. The owner is the chief reinforcement officer and has to cascade the same behavior through leaders, because it happens 24/7 in rooms you're not in.
+- **Who you fire is the loudest signal.** Even louder than promotions. Not a "fire everybody" culture, but a minimum bar.
+- **The bar is horizontal, not vertical.** Raise it within each function (a frontline rep vs other frontline reps), not by demanding exec-level skill from everyone.
+- **The mediocre middle is what limits you.** Decent owners get the true losers out; the clock-in, clock-out middle clogs the pipes with slow work that winners have to redo.
+- **Easy in, hard to stay.** Judging people from a couple of conversations is weak; judging output is strong. Use the first 90 days like a boot camp, and don't let people sell you their excuses (Napoleon preferred lucky generals). He knows every A player within 14 days.
+- **Tolerance for mediocrity predicts growth.** Across the wealthy entrepreneurs he knows, growth tracks inversely with their tolerance for mediocrity. As you win, what was good becomes mediocre, so recalibrate: ask what your bar will be in five years and pull it into the present.
+- **Removing the 80 beats adding a 140.** Your average rises faster by cutting the duds than by adding stars.
+- **Global over local empathy.** Keeping a weak performer spares one person pain while everyone else pays. Take the local pain so the team gets the global benefit, and still treat the person with respect.
+- **Shrink the delay between knowing and doing.** You already know what to do; the best entrepreneurs act almost the moment they know.

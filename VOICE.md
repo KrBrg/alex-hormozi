@@ -275,3 +275,15 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 187. “I don't want to swing at every ball, so I have to save my swings.” — same
 188. “I don't know how I'm going to get there, but I know I'm not going to stop until I do.” — same
 189. “never listen to someone's advice whose dreams for your life are smaller than yours.” — same
+
+### Short posts — incremental 2026-10-24 (X, 2026-10-23)
+190. “Across all human time periods, saying what you actually think has always been a pure demonstration of courage.” — https://x.com/AlexHormozi/status/2113435258163253564
+
+### Spoken — The Game Ep 995 “Improving Team Performance Through Elimination” (2026-09-01, Flightcast VTT, solo)
+191. “Culture is the rules that govern reinforcement, aka reward and punishment, in a business.” — https://rss.flightcast.com/transcripts/01M1D82R6DT3ZRNFERMMFADGZM.vtt
+192. “the biggest signal that you can give, even more than promotions, and promotions are very big, is who you fire.” — same
+193. “there's nothing more demotivating to a winner than being forced to work with a loser.” — same
+194. “Every A I've ever had, I know within 14 days, seven, really 14 is being generous.” — same
+195. “I don't think you're listening to my stuff because you want to have your ears tickled.” — same
+196. “Do I want to have empathy for the person or do I want to have empathy for the business?” — same
+197. “The moment they know it, they do it.” — same
