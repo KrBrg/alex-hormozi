@@ -292,3 +292,20 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01M1D82R6DT3ZRNFER
 - **Removing the 80 beats adding a 140.** Your average rises faster by cutting the duds than by adding stars.
 - **Global over local empathy.** Keeping a weak performer spares one person pain while everyone else pays. Take the local pain so the team gets the global benefit, and still treat the person with respect.
 - **Shrink the delay between knowing and doing.** You already know what to do; the best entrepreneurs act almost the moment they know.
+
+## Short-post convictions: ideas cost years; will it into existence (X, 2026-10-24)
+Sources: https://x.com/AlexHormozi/status/2114068763578654823 / https://x.com/AlexHormozi/status/2113971357054902284
+- **Entrepreneurship is an expensive experiment.** You trade years of your life to learn which of your ideas were actually good.
+- **The grind phase is the signal, not the stop sign.** When everything is hard, nothing works the first time and it feels pointless, that's the moment you have to will it into existence, and that's when it starts to work.
+
+## High-stakes decisions and the three places people cast their power (The Game Ep 992 backfill, 2026-08-14 — “One High-Stakes Decision Changes Everything”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KZZW6RQVPQ78QWAT52FFE0QN.vtt (solo Alex talk to a sales audience).
+- **One decision can change everything.** Instead of deciding, most people blame, which really means giving power to sources outside their control. That's what prospects and customers do, and it's why so many people feel powerless.
+- **Sell the decision, not the purchase.** The goal is that they leave certain, whether they buy or not. Tell them you don't want them to buy, you want them to decide for themselves. If you can genuinely be happy when someone owns the decision and doesn't work with you, sales pressure evaporates and you change the metric you measure yourself by.
+- **People pay for attention.** They pay you to pay attention to them rather than talk about yourself.
+- **Obstacles vs objections.** Before you ask for the sale, pushback is an obstacle and it's easy to confront and destroy. After the ask, it's objections and you're closing. Clear the bullshit early ("you're not here for information, you're here to solve a problem").
+- **"I need to think about it" is not a reason to leave.** Ask what they're thinking about; they stay.
+- **Three beliefs must be in place.** They want the goal, they believe the product gets them there the way they want to get there (Gym Launch lesson: people said no to the service but bought supplements because they wanted to lose weight their way), others will support them, and it will work for them, not just everyone else.
+- **Logical close with proof.** Ask how many results they'd need to see for it to be more unreasonable not to believe than to believe, then show more. Expect a no at first: if people could make the decision, they already would have.
+- **Understand, don't memorize.** Learn principles, not formulas (Feynman); don't screenshot the slides, be present.
+- **Three distortions (from Albert Ellis).** People cast their power to circumstances, other people, or self. Think of an onion of blame: they start blaming circumstances (time, money), then others (spouse, kids, employees), then themselves. The objection tells you which layer you're at and how close you are.

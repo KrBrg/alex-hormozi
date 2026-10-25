@@ -287,3 +287,16 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 195. “I don't think you're listening to my stuff because you want to have your ears tickled.” — same
 196. “Do I want to have empathy for the person or do I want to have empathy for the business?” — same
 197. “The moment they know it, they do it.” — same
+
+### Short posts — incremental 2026-10-25 (X, 2026-10-24)
+198. “Entrepreneurship is trading years of your life to find out which of your ideas were good.” — https://x.com/AlexHormozi/status/2114068763578654823
+199. “Everything is hard. Nothing works the first time. It all feels pointless. That’s when you realize you’re going to have to will it into existence with every ounce of your fucking soul. And that’s when it starts to happen.” — https://x.com/AlexHormozi/status/2113971357054902284
+
+### Spoken — The Game Ep 992 “One High-Stakes Decision Changes Everything” (2026-08-14, Flightcast VTT, solo)
+200. “I can change everything with one decision, right?” — https://rss.flightcast.com/transcripts/01KZZW6RQVPQ78QWAT52FFE0QN.vtt
+201. “I don't want you to buy. I want you to decide for you, not for me” — same
+202. “you can win every sale because you change the metric you're measuring yourself by.” — same
+203. “You're not here to find out more about the program. You're here because you're fat.” — same
+204. “I've never had someone leave because they need to think about it. I'm like, cool. What are you thinking about?” — same
+205. “how many people would you need to see for it to be more unreasonable for you not to believe than to believe?” — same
+206. “this is why you expect no at first, because if people could make the decision, they would have already made it.” — same
