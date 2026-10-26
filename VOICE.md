@@ -300,3 +300,12 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 204. “I've never had someone leave because they need to think about it. I'm like, cool. What are you thinking about?” — same
 205. “how many people would you need to see for it to be more unreasonable for you not to believe than to believe?” — same
 206. “this is why you expect no at first, because if people could make the decision, they would have already made it.” — same
+
+### Spoken — The Game Ep 990 “The Offer So Good People Feel Stupid Saying No” (2026-08-05, Flightcast VTT, solo)
+207. “Number five, always start for free, always.” — https://rss.flightcast.com/transcripts/01KZ53VKWA18Q9Y2654MYNA9R3.vtt
+208. “I have yet to see a time where starting for free has not made me more money.” — same
+209. “the most expensive thing about your product often isn't the price.” — same
+210. “I'm like, well, why would I believe you?” — same
+211. “Well, yeah, that's why it's called investing in a business.” — same
+212. “your proof is going to do more selling than any promise can possibly do” — same
+213. “if you had to pick between proof or promise, double down on proof.” — same
