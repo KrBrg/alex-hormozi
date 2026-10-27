@@ -309,3 +309,18 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 211. “Well, yeah, that's why it's called investing in a business.” — same
 212. “your proof is going to do more selling than any promise can possibly do” — same
 213. “if you had to pick between proof or promise, double down on proof.” — same
+
+### Short posts — incremental 2026-10-27 (X, 2026-10-26)
+214. “Extraordinary outcomes follow extraordinary work, not extraordinary people.” — https://x.com/AlexHormozi/status/2114807483072217349
+215. “Get over yourself. There is no magic. Only the work.” — https://x.com/AlexHormozi/status/2114777018646839436
+216. “Better to be dumb and maximized than smart and leaving meat on the bone.” — https://x.com/AlexHormozi/status/2114746491101405326
+217. “The reality is, we get those letters every single day. They just look like risk and a shitload of work, with no guarantee of a payoff.” — https://x.com/AlexHormozi/status/2114724517490872761
+218. “If you make valuable stuff, all algo changes help you.” — https://x.com/AlexHormozi/status/2114843234375786581
+
+### Spoken — The Game Ep 989 “Economies of Scale, Vertical Integration, and the Brand I Love Most” (2026-07-30, Flightcast VTT, solo)
+219. “There's no advantage, this is Dan Kennedy quote, there's no advantage to being the second cheapest player in a marketplace.” — https://rss.flightcast.com/transcripts/01KYQYJFYY843C66A4SKFJDNHY.vtt
+220. “And so you don't need more than one of these. You just need to do one right all the way.” — same
+221. “control is kind of the opposite of risk in a lot of businesses.” — same
+222. “you're basically selling free media with sunshine and water” — same
+223. “But this one is one that you can make with skill, which is why I love it so much.” — same
+224. “so they can build businesses that last so that capitalism has a fucking chance.” — same

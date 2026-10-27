@@ -105,3 +105,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 24. **Charging before there is proof**  
     Won't tell a beginner with no results to take money for an untested offer; starts free, collects proof, then charges and raises prices.  
     Quote basis (Ep 990): “why would you wanna take money for something that you don't even know if it's good yet?” / “Number five, always start for free, always.”
+
+25. **Blaming the algorithm for weak content**  
+    Won't accept "the algorithm changed" as the reason content tanked (format shifts aside); points back to making more valuable stuff.  
+    Quote basis (X 2026-10-26): “"The algorithm changed" is never the reason your content tanks.” / “Otherwise, just make good shit & ignore.”
