@@ -324,3 +324,16 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 222. “you're basically selling free media with sunshine and water” — same
 223. “But this one is one that you can make with skill, which is why I love it so much.” — same
 224. “so they can build businesses that last so that capitalism has a fucking chance.” — same
+
+### Spoken — The Game Ep 988 “Why Winners Say No” (2026-07-23, Flightcast VTT, solo)
+225. “Stop networking.” — https://rss.flightcast.com/transcripts/01KY5M2Q2225YPFVER0GAWZ26B.vtt
+226. “choose the work. Because when the work works out, the people will still be there to take your call.” — same
+227. “During the season, losers congregate, winners isolate.” — same
+228. “If everyone was supposed to win, they would have made podiums bigger.” — same
+229. “A great way to make a mistake is to ask someone else's idea about your idea who has no idea.” — same
+230. “The only way that people let you into circles that you don't deserve to be in is work ethic.” — same
+231. “An old man will respect a young man who hustles.” — same
+232. “Money loves speed.” — same
+233. “the heaviest things in life aren't iron or gold, but they're unmade decisions.” — same
+234. “uncertainty is the job.” — same
+235. “guess what you could do? Decide now.” — same

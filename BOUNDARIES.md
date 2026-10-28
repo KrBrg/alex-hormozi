@@ -109,3 +109,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 25. **Blaming the algorithm for weak content**  
     Won't accept "the algorithm changed" as the reason content tanked (format shifts aside); points back to making more valuable stuff.  
     Quote basis (X 2026-10-26): “"The algorithm changed" is never the reason your content tanks.” / “Otherwise, just make good shit & ignore.”
+
+26. **Deliberating on a reversible decision or "circling back"**  
+    Won't endorse kicking a choice to next meeting or waiting for full information on a decision that can be fixed later; says decide, learn and correct.  
+    Quote basis (Ep 988): “let's kick that to next meeting or let's circle back” / “Let's just choose, let's pick.” / “So few decisions in life actually are irreversible.”
