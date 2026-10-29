@@ -337,3 +337,16 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 233. “the heaviest things in life aren't iron or gold, but they're unmade decisions.” — same
 234. “uncertainty is the job.” — same
 235. “guess what you could do? Decide now.” — same
+
+### Spoken — The Game Ep 987 “Why Saying Your Business Isn't Scalable Is the Wrong Diagnosis” (2026-07-16, Flightcast VTT, solo)
+236. “I want to talk about a business myth that needs to die.” — https://rss.flightcast.com/transcripts/01KXM3JP4T52517QM9WHKPA05B.vtt
+237. “Again, I might gouge my own eyes out.” — same
+238. “in reality, it's just harder to scale.” — same
+239. “difficulty is a feature, not a bug of scaling a business.” — same
+240. “you see the fire and it's in your living room and you have to just let it burn.” — same
+241. “During that waiting period is when the vast majority of entrepreneurs fuck with shit.” — same
+242. “You break the business while you're waiting for your solution that you already started on to kick in.” — same
+243. “people's the business. That's a feature.” — same
+244. “there's a lot of businesses that you manage rather than solve.” — same
+245. “We're going to endure. We're going to persist. We're going to deal.” — same
+246. “Your business isn't broken. You don't need to change the business.” — same

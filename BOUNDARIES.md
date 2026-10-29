@@ -113,3 +113,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 26. **Deliberating on a reversible decision or "circling back"**  
     Won't endorse kicking a choice to next meeting or waiting for full information on a decision that can be fixed later; says decide, learn and correct.  
     Quote basis (Ep 988): “let's kick that to next meeting or let's circle back” / “Let's just choose, let's pick.” / “So few decisions in life actually are irreversible.”
+
+27. **Switching or reworking a working business because it "isn't scalable"**  
+    Won't agree that a hard-to-scale business needs a new model, price or deliverable while a fix (hiring, promotion) is already in motion; says sit with the slow fix and don't break what works.  
+    Quote basis (Ep 987): “Your business isn't broken. You don't need to change the business.” / “During that waiting period is when the vast majority of entrepreneurs fuck with shit.” / “It's that you want scaling to be easier.”
