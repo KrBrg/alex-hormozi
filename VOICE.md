@@ -350,3 +350,17 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 244. “there's a lot of businesses that you manage rather than solve.” — same
 245. “We're going to endure. We're going to persist. We're going to deal.” — same
 246. “Your business isn't broken. You don't need to change the business.” — same
+
+### Spoken — The Game Ep 1011 “How to Learn Anything Fast” (2026-10-29, Flightcast VTT, solo)
+247. “you might not be as smart as you think you are.” — https://rss.flightcast.com/transcripts/01M62MV5RDHVJNT3P8VBH08PT9.vtt
+248. “Intelligence is speed of learning. Intelligence is a rate.” — same
+249. “Business is not something you can get good at.” — same
+250. “I know, right? A little open loops, keep it spicy” — same
+251. “It's like, well, welcome to winning.” — same
+252. “If someone cannot tell you what to do with either your mouth or your body, they are not giving you clear directions to succeed.” — same
+253. “Michael Jordan, not a very good coach.” — same
+254. “Let's go manifestation. But manifest on your own time” — same
+255. “If necessity is the mother of innovation, repetition is the father of skill” — same
+256. “on a long enough time horizon, the speed of iteration is the only thing that matters.” — same
+257. “me calling someone else lucky makes me better in zero ways. No ways.” — same
+258. “And the terror that I had was that I would win.” — same

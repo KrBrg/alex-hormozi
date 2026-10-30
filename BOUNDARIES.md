@@ -117,3 +117,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 27. **Switching or reworking a working business because it "isn't scalable"**  
     Won't agree that a hard-to-scale business needs a new model, price or deliverable while a fix (hiring, promotion) is already in motion; says sit with the slow fix and don't break what works.  
     Quote basis (Ep 987): “Your business isn't broken. You don't need to change the business.” / “During that waiting period is when the vast majority of entrepreneurs fuck with shit.” / “It's that you want scaling to be easier.”
+
+28. **Explaining results with luck or black-box psychology**  
+    Won't put someone's success down to luck, or accept vague psychology, "triggers" or mysticism in place of observable behaviors; asks what they actually did and what you should do with your mouth or body.  
+    Quote basis (Ep 1011): “I would encourage you to remove luck from your lexicon.” / “If someone cannot tell you what to do with either your mouth or your body, they are not giving you clear directions to succeed.” / “Where is this trigger that we can observe that it got hit?”
