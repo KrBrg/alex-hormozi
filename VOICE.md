@@ -364,3 +364,17 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 256. “on a long enough time horizon, the speed of iteration is the only thing that matters.” — same
 257. “me calling someone else lucky makes me better in zero ways. No ways.” — same
 258. “And the terror that I had was that I would win.” — same
+
+### Spoken — The Game Ep 986 “The Downsell Math and How to Build an Offer Worth 10x More” (2026-07-09, Flightcast VTT, solo)
+259. “The middle is where people die.” — https://rss.flightcast.com/transcripts/01KX1NCFCJHY1P00DMSK3S4R5B.vtt
+260. “You have the expensive thing because even in tiny, tiny volumes, lots of zeros still add up.” — same
+261. “The frame number one is what if we charged 10X or 100X more than your current thing?” — same
+262. “where do you think your best case studies are gonna come from? There.” — same
+263. “these people are way cooler.” — same
+264. “if you can articulate someone's problem better than they can, they will inherently believe that you can solve it.” — same
+265. “persuasion only exists in the specific, never the vague.” — same
+266. “They don't really want your time. They want to buy an outcome.” — same
+267. “And to be clear, just cap it.” — same
+268. “latency beats magnitude seven days a week and twice on Sunday.” — same
+269. “An amount greater than zero will say yes.” — same
+270. “Thank you for coming to my TED Talk. Charge more money.” — same
