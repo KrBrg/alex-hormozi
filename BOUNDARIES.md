@@ -125,3 +125,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 29. **Stuck in the middle on price, with no premium tier**  
     Won't endorse a single mid-priced offer or assume the premium buyer is just the current cheap buyer upgraded; says add a 10x tier for a different avatar, sell the outcome and speed, and cap the unscalable work.  
     Quote basis (Ep 986): “The middle is where people die.” / “Likely, the person that's gonna spend $1,000 is a different person.” / “Thank you for coming to my TED Talk. Charge more money.”
+
+30. **Blaming the channel when the model is broken**  
+    Won't accept "Facebook / outbound / content doesn't work for me" from someone who doesn't know their lifetime gross profit and CAC, and won't apply a 3:1 ratio to a business with people in every step; says do the math and fix the model.  
+    Quote basis (Ep 985): “Oh, Facebook doesn't work for me.” / “You have a model issue.” / “that is only true under the conditions where you have all three elements of business that are automated.”

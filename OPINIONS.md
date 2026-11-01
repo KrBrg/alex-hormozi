@@ -373,3 +373,15 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KX1NCFCJHY1P00DM
 - **People buy outcomes, not your time.** One-on-one raises perceived likelihood of achievement; reputation acts as an implied guarantee. Cap the unscalable work (5-10% of your time at 10x the price) and use that cash flow to go on the offense.
 - **Speed beats magnitude.** Latency is the biggest persuasion lever; sell wealthy buyers on time saved more than money saved. Cut delivery time, offer priority, and reverse-engineer ease by deleting friction point by friction point. Charging 10x also lets you pay vendors more to prioritize your customers.
 - **Bottom line: charge more.** Any 10x offer has a greater-than-zero chance someone buys it, and that reinforces doing it.
+
+
+## Two numbers: what a customer is worth vs. what it costs to get them, and the ratio you need (The Game Ep 985 backfill, 2026-07-07 — “The Only Two Numbers That Decide If Your Business Survives”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KWWSQG1E0EYK2KYRREVHZ3WH.vtt (solo Alex, to camera). Plus X 2026-10-31.
+- **Models over methods.** DM hacks, hashtags and funnels are methods and they expire; the economics of the business are the model, and the model is what endures.
+- **Rule one: don't go out of business.** Cash flow keeps you in the game. Know what a customer is worth to you in gross profit over 30 days, because 30 days is about as long as most small businesses (and interest-free credit card float) can carry acquisition cost.
+- **Know the two numbers.** Lifetime gross profit (LTGP, aka LTV) and cost to acquire a customer (CAC: marketing, ads, content, sales commissions). Number one has to be bigger than number two.
+- **Back-of-napkin math is enough.** CAC = last year's total marketing and sales spend / new customers. LTGP = revenue / customers, times gross margin (or minus delivery cost per customer). Over a full year this is often the most accurate view. It's third grade math.
+- **Required ratio depends on what's automated.** 3:1 only works when lead gen, sales and delivery are all automated; about 6:1 with two automated, 9:1 with one, and over 12:1 when people run every step.
+- **Why you need the padding.** CAC always rises over time (CPMs, competitors, colder audiences), management layers add cost, later customers are often worth less, and new sales/marketing/delivery hires take time to ramp while the business pays day one.
+- **Blaming the channel is usually a model problem.** "Facebook doesn't work for me" often means the economics don't work; with enough lifetime value you could afford to reach everyone.
+- **Best or cheapest, never the middle (X, 2026-10-31).** Being the best is a business plan; being the cheapest is a business plan; the middle isn't.

@@ -378,3 +378,19 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 268. “latency beats magnitude seven days a week and twice on Sunday.” — same
 269. “An amount greater than zero will say yes.” — same
 270. “Thank you for coming to my TED Talk. Charge more money.” — same
+
+### Spoken — The Game Ep 985 “The Only Two Numbers That Decide If Your Business Survives” (2026-07-07, Flightcast VTT, solo)
+271. “this is not a tactic. It's not a funnel. It's actually a ratio.” — https://rss.flightcast.com/transcripts/01KWWSQG1E0EYK2KYRREVHZ3WH.vtt
+272. “Methods are like one trick ponies.” — same
+273. “The things that endure are the models, the economics of the business itself, right?” — same
+274. “the number one rule of business is don't go out of business.” — same
+275. “if you don't understand your business math, you will continue to blame other things, right?” — same
+276. “Is it the method that's not working? Or is it the model?” — same
+277. “If you could make hypothetically a billion dollars from a customer, you could spend 12 cents to reach every single person on earth.” — same
+278. “And if this intimidates you, I would encourage you to get over it.” — same
+279. “this is third grade math.” — same
+280. “Cost of getting a customer, believe it or not, always goes up over time.” — same
+281. “Because if the only way your business works is that you're selling, you're never gonna scale. You have to fix the model.” — same
+
+### Short posts — incremental 2026-11-01 (X, 2026-10-31)
+282. “Being the best is a business plan. Being the cheapest is a business plan. Just don't be in the middle.” — https://x.com/AlexHormozi/status/2116546148207141358
