@@ -385,3 +385,16 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KWWSQG1E0EYK2KYR
 - **Why you need the padding.** CAC always rises over time (CPMs, competitors, colder audiences), management layers add cost, later customers are often worth less, and new sales/marketing/delivery hires take time to ramp while the business pays day one.
 - **Blaming the channel is usually a model problem.** "Facebook doesn't work for me" often means the economics don't work; with enough lifetime value you could afford to reach everyone.
 - **Best or cheapest, never the middle (X, 2026-10-31).** Being the best is a business plan; being the cheapest is a business plan; the middle isn't.
+
+
+## Personal brand in three stages: do epic shit, associate, defend the belt (The Game Ep 984 backfill, 2026-07-02 — “3 Levels of Building a Personal Brand”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KWGDJQZCF9KVT20TCK3TA07D.vtt (solo Alex, to camera). Plus X 2026-11-01.
+- **Stage one: do epic shit first.** Everyone forgets the "personal" part of a personal brand: real skills, accomplishments, or takes worth watching. Six months of content after a decade of experience builds a bigger brand than a decade of content with six months of experience.
+- **Two ways to earn the cred.** A big accomplishment, or a visible volume of work (1,000 outreach attempts, 10,000 doors) that people would rather watch than do. Educational content sells speed: be the Cliff Notes of your years.
+- **Stage two: branding is association.** Pair yourself, over and over, with what your ideal customer finds positive: the topics, products and people they like. Repetition makes it stick (the flannel and tank top became Halloween costumes).
+- **No association is inherently good or bad.** It depends on the avatar and the brand's reinforcement history: Bud Light's influencer ad and Coca-Cola's AI Christmas ad were bad pairings for their core audiences, the same moves could suit other brands, and UFC was a good repair pairing.
+- **The product has to keep the promise.** The virtuous cycle runs from what you say, to what others say, to what buyers conclude after using it. Then wait five years and don't give up.
+- **Stage three: defend the belt.** Big brands get nibbled into irrelevance at the borders, like Rome; stay relevant with aspirational public brand moments (Red Bull's space jump, Apple keynotes, book launches, selling the company).
+- **Public goals create stakes.** Set the date publicly; the stakes align the team, make the goal interesting to outsiders, and they pay you with attention.
+- **A-players (X, 2026-11-01).** If you can't find A-players, it's because you're not one.
+- **Sell to people with money (X, 2026-11-01).** Only selling to broke people because they're the only people you know is how to stay poor.

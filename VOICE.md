@@ -394,3 +394,22 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 
 ### Short posts — incremental 2026-11-01 (X, 2026-10-31)
 282. “Being the best is a business plan. Being the cheapest is a business plan. Just don't be in the middle.” — https://x.com/AlexHormozi/status/2116546148207141358
+
+### Spoken — The Game Ep 984 “3 Levels of Building a Personal Brand” (2026-07-02, Flightcast VTT, solo)
+283. “The proof is in the pudding. It's not even in the pudding. The proof is the pudding, right?” — https://rss.flightcast.com/transcripts/01KWGDJQZCF9KVT20TCK3TA07D.vtt
+284. “You'll build a bigger brand making content for six months after a decade of experience. Then you will have a decade of content with only six months of experience.” — same
+285. “Cause no one cares about your opinion until they know it's worth something.” — same
+286. “I get two seasons of The Bachelor in 12 minutes. That's a good deal.” — same
+287. “Show the work. Show the work.” — same
+288. “People will happily not want to do work, watch you do work, and then get the lessons from it.” — same
+289. “it's just associating you with something else.” — same
+290. “There's no... inherently good or bad association.” — same
+291. “It was that AI itself has a brand, which it does” — same
+292. “basically wait five years and don't give up.” — same
+293. “You have to fight newer, hungrier challenges to defend the belt.” — same
+294. “You have to have stakes. You have to have skin in the game. Otherwise, it's not interesting.” — same
+295. “And so what do they do? They pay you with attention.” — same
+
+### Short posts — incremental 2026-11-02 (X, 2026-11-01)
+296. “If you can't find A-players, it’s because you're not an A-player.” — https://x.com/AlexHormozi/status/2117006002038124726
+297. “How to stay poor: Only sell to broke people because they’re the only people you know.” — https://x.com/AlexHormozi/status/2116959586452410609
