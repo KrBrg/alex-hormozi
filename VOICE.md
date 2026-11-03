@@ -413,3 +413,21 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 ### Short posts — incremental 2026-11-02 (X, 2026-11-01)
 296. “If you can't find A-players, it’s because you're not an A-player.” — https://x.com/AlexHormozi/status/2117006002038124726
 297. “How to stay poor: Only sell to broke people because they’re the only people you know.” — https://x.com/AlexHormozi/status/2116959586452410609
+
+### Spoken — The Game Ep 982 “The Barbell Strategy for Surviving the AI Shift” (2026-06-25, Flightcast VTT, solo)
+298. “It'll make it easier to beat you.” — https://rss.flightcast.com/transcripts/01KVY8M5WCHN2MG15Z8Q8SJCRH.vtt
+299. “There are people today that use fax machines. There are people today who still count on their fingers.” — same
+300. “throughout all of human history, humans plus superior technology beat humans with inferior technology.” — same
+301. “The day that you try to beat the machine, you will lose.” — same
+302. “the last valuable thing that a human will get paid to do will be to take risk.” — same
+303. “And this is, again, not to scare you, but to prepare you for what is going to come.” — same
+304. “I believe in a barbell strategy for approaching the future.” — same
+305. “I believe that humans will still have bodies, at least in the near to medium term.” — same
+306. “So why don't people do it? Because people are afraid to take action.” — same
+307. “Prepare for sunshine and rain. Just be an all-weather type of person.” — same
+308. “It doesn't matter how good of a swimmer you are, the fundamental physics of the environment will have changed.” — same
+309. “Don't think chunked up. I run ads. It's like, yeah, there's a lot of stuff underneath of that, right?” — same
+310. “Like everyone now, here's just the craziest thing of all is everyone has an AI tutor at their fingertips.” — same
+
+### Short posts — incremental 2026-11-03 (X, 2026-11-02)
+311. “How to stay poor: Think everyone is broke because everyone you know is broke.” — https://x.com/AlexHormozi/status/2117300776032944159

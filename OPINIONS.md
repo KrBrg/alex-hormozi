@@ -398,3 +398,16 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KWGDJQZCF9KVT20T
 - **Public goals create stakes.** Set the date publicly; the stakes align the team, make the goal interesting to outsiders, and they pay you with attention.
 - **A-players (X, 2026-11-01).** If you can't find A-players, it's because you're not one.
 - **Sell to people with money (X, 2026-11-01).** Only selling to broke people because they're the only people you know is how to stay poor.
+
+
+## AI shift: humans with better tools, a barbell of bets, and the price lag (The Game Ep 982 backfill, 2026-06-25 — “The Barbell Strategy for Surviving the AI Shift”)
+Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KVY8M5WCHN2MG15Z8Q8SJCRH.vtt (solo Alex, to camera). Plus X 2026-11-02.
+- **Humans plus better tools win.** Through all of history, humans with superior technology beat humans with inferior technology. As long as it's humans with tools against humans with other tools, you're still competing against humans. Try to beat the machine head-on and you lose. AI laggards can still win, but with a handicap, like a company with no website.
+- **Risk is the last thing humans get paid for.** When intelligence and labor cost about the price of electricity, labor loses value; taking risk is what's left. Not to scare you, to prepare you.
+- **Run a barbell.** One end is high risk, high reward: go AI first in every business and have the hard conversations when roles get automated, because a startup that never has to have them will beat you. The other end is the Bezos frame: bet on what won't change.
+- **Bets that won't change.** Humans will still have bodies (health, fitness, food, supplements), need a place to live, and have more leisure, so entertainment booms. AI-made entertainment is mostly margin while prices haven't caught up to the cost basis; most people just won't act.
+- **Exploit the price lag.** Buyers are slow to adapt, and so is their price sensitivity. Keep charging the price that had labor baked in while delivery costs drop, and gain operational leverage, because coordination between humans is one of the biggest costs of scaling.
+- **Automate at the task level.** List what you do every day at the most granular level (not "I run ads", but budgets, creative, copy, landing pages), hand the first task to AI and ask how to automate it, and screenshot your screen when stuck. Everyone has an AI tutor and isn't using it.
+- **Be all-weather.** Hope for the best, prepare for the worst; in the doom scenario none of it matters anyway. The coming change is a phase shift, like water boiling under a swimmer, so skill in the old environment won't save you.
+- **Assume buyers have money (X, 2026-11-02).** Thinking everyone is broke because everyone you know is broke is how to stay poor.
+
