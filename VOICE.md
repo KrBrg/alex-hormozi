@@ -431,3 +431,17 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 
 ### Short posts — incremental 2026-11-03 (X, 2026-11-02)
 311. “How to stay poor: Think everyone is broke because everyone you know is broke.” — https://x.com/AlexHormozi/status/2117300776032944159
+
+### Spoken — The Game Ep 1012 “Building a $2,300,000/yr Business for a Stranger in 57 Mins” (2026-11-03, Flightcast VTT; to-camera segments only)
+312. “So the oldest law in business is supply and demand.” — https://rss.flightcast.com/transcripts/01M6FGDR2QW0FGR04SBTZ7QZXK.vtt
+313. “The fastest way to five locations isn't the fastest way to 50 locations.” — same
+314. “And the answer to that question is one word, rush.” — same
+315. “So the real business is the upsell.” — same
+316. “Which is why one of my favorite quotes is, everything you want in life is on the other side of a few hard conversations.” — same
+317. “Don't leave something gray because you don't wanna confront the issue.” — same
+318. “And this is why we say nail it, then scale it.” — same
+319. “Getting a customer to come back and buy again is absolutely a sales conversation, though it walks and talks like an administrative conversation, a scheduling conversation.” — same
+320. “Not that hard, hugely impactful.” — same
+321. “I want to make it a dare I say, dare I say, an offer so good people would feel stupid saying no.” — same
+322. “The longer you stay in business, the more you are compensated by the quality of your decisions, not how hard or how long you work.” — same
+323. “I define strategy as prioritization of resources.” — same
