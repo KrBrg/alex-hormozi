@@ -141,3 +141,7 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 33. **Rushing expansion through partner deals**  
     Won't tell an owner to open more locations faster by handing equity to friends who cover a gap in money or manpower; says the fastest way to five isn't the fastest way to 50, and the partnership has to be resolved before any tactic will get executed.  
     Quote basis (Ep 1012): “The fastest way to five locations isn't the fastest way to 50 locations.” / “But you can't do that if you have all these hodgepodge deals on the side.” / “If she doesn't deal with this thing, it's just gonna get bigger and nastier.”
+
+34. **Negotiating from need**  
+    Won't tell someone to walk into a negotiation needing the deal with no other offers and rely on tactics; says the leverage is built before you sit down, and without an alternative you're playing poker only on bluffing.  
+    Quote basis (Ep 981): “And you do this before you sit down to the table.” / “Right now, if you sit down and you need this deal and you have no other offers, all the little tactics that you can try, sure, you can try to do it, but the thing is that it's just trying to win at poker only on bluffing.” / “It's a bad position to be in.”

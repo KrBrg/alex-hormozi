@@ -445,3 +445,24 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 321. “I want to make it a dare I say, dare I say, an offer so good people would feel stupid saying no.” — same
 322. “The longer you stay in business, the more you are compensated by the quality of your decisions, not how hard or how long you work.” — same
 323. “I define strategy as prioritization of resources.” — same
+
+### Short posts — incremental 2026-11-05 (X, 2026-11-04/05)
+324. “99% of the time, business sucks.” — https://x.com/AlexHormozi/status/2118138355838071023
+325. “You only have one option left: keep fucking going.” — same
+326. “They’re too big for them, not too big for you.” — https://x.com/AlexHormozi/status/2118090268784410848
+327. “You must suck at the thing before you can become good at the thing.” — https://x.com/AlexHormozi/status/2118059572472828223
+328. “People believe in people who believe in themselves.” — https://x.com/AlexHormozi/status/2117953640799555986
+
+### Spoken — The Game Ep 981 “The Psychological Power That Wins Every Negotiation Before You Sit Down” (2026-06-23, Flightcast VTT, solo)
+329. “You have to negotiate, and you get what you negotiate, not what you deserve.” — https://rss.flightcast.com/transcripts/01KVRPFR5VX85TVR98FVPP28K3.vtt
+330. “Negotiation is all about leverage.” — same
+331. “It's them versus me and it's who wants it less.” — same
+332. “You want to buy when you don't want to buy because you have something else.” — same
+333. “It's a bad position to be in. I would rather have pocket aces.” — same
+334. “Shoot for $12. Shoot for $15.” — same
+335. “It doesn't matter if you say I'm not trying to anchor here. It's an anchor.” — same
+336. “Well, you should have said $500 first because now their $2,000 is going to seem ridiculous.” — same
+337. “So they moved $3 million. I moved up $250 grand.” — same
+338. “And a lot of people are always way too fixated on the price and not enough on the terms.” — same
+339. “He said, I wouldn't have sold it for a penny less. It felt so classy.” — same
+340. “So you get them bidding for themselves and then you flip it.” — same
