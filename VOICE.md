@@ -466,3 +466,40 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 338. “And a lot of people are always way too fixated on the price and not enough on the terms.” — same
 339. “He said, I wouldn't have sold it for a penny less. It felt so classy.” — same
 340. “So you get them bidding for themselves and then you flip it.” — same
+
+### Spoken — The Game Ep 1013 “I Offered $10,000 to Anyone Who Could Change My Mind” (2026-11-05, Flightcast VTT; Alex belief/defense/concession turns only)
+341. “You don't need a weekend.” — https://rss.flightcast.com/transcripts/01M6MA3SW029RT5PN6F6CDY2N3.vtt
+342. “What you really need is work that you don't need a weekend from.” — same
+343. “But the idea that I must have this, to me, usually points to a larger issue, which is that, like, I hate my work.” — same
+344. “It's a subtle pushback against the self-care maxing that I feel like has just softened an entire generation.” — same
+345. “I'm okay having sound bites being taken out of context for the vast majority of people to hear the core of the message, which is like you probably can do a lot more than you think you can.” — same
+346. “But said differently, pay better people better and it will cost you less than paying poor people poorly.” — same
+347. “And then they're, you know, 45, never having committed to anything, and then wondering what happened.” — same
+348. “I'm strongly encouraging people to knowingly make trades, And I think that almost all the best parts of life come on the other side of commitments” — same
+349. “The larger point of the tweet is that the vast majority of people know what they need to do and they're not doing it.” — same
+350. “And then it would mean that you didn't lack information, you lacked priorities.” — same
+351. “So I think your whole point proved the point, which is that when you were not skilled before, you were mediocre and as a result hired mediocre people.” — same
+352. “I will agree that never from a pure binary perspective in tweet writing.” — same
+353. “as with broad brushstrokes, I think most people who chase work-life balance and the big outcome, um, end up with neither.” — same
+354. “you have to define your own scoreboard and then make sure that you're playing a game whose prize you want to win.” — same
+355. “I think more people just stay on the sidelines, like just trying to collect these things, these bets, as though I wanna keep all these options open, but then in so doing prevent them from succeeding at any of them.” — same
+356. “If you want to become a trillionaire, you have to go all in.” — same
+357. “Like basically if you help max, you will help more people than if you try and blend two objectives.” — same
+358. “I want to make as much money as I can when I'm in money-making mode, and then I want to help as many people as I can when I'm in helping mode.” — same
+359. “Where people get in trouble is that they run a business that is not profitable and then say they are reinvesting in growth when the reality is they just don't make any money.” — same
+360. “I am trying to win at the game of life, not the game of business.” — same
+361. “So we will always live a life of deprivation around not having done all of the things 10 out of 10.” — same
+362. “I don't believe that comparison is a thief of joy. I think the judgment on the comparison is.” — same
+363. “And so then it's like I take the 85-year-old looking back perspective of what would I be most content with.” — same
+
+### Spoken — The Game Ep 980 “I Caught My Employee Stealing. What Should I Do?” (2026-06-18, Flightcast VTT; Alex advisory turns only)
+364. “When you're 85 looking back, you're going to want to have been honest, period.” — https://rss.flightcast.com/transcripts/01KVC67PNVXKPSD9PCM7G4MR8P.vtt
+365. “I've got good news and bad news. The good news is we're slightly more profitable than we've let you know, and we're willing to honor the existing price. The bad news is I have to replace one of the people because I found out he was skimming.” — same
+366. “I would not want a snake in my business. Whether it's $100, $1,000 they stole.” — same
+367. “He said, because it's not the first time she stole. It's the first time you caught her.” — same
+368. “I think the game is long and reputation is something, the only thing that you defend with your life.” — same
+369. “This is an ethics call, not a business call.” — same
+370. “The best day to catch someone stealing was 20 years ago. The second best day is today.” — same
+371. “It's the half truths and the half facts that get you fucked.” — same
+372. “when you remove cancer, that's usually a good thing.” — same
+373. “You will always be proud of how you acted in this moment.” — same
