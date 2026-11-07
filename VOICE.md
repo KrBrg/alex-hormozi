@@ -503,3 +503,16 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 371. “It's the half truths and the half facts that get you fucked.” — same
 372. “when you remove cancer, that's usually a good thing.” — same
 373. “You will always be proud of how you acted in this moment.” — same
+
+
+### Spoken — The Game Ep 979 “The 4 Ways To Build Trust” (2026-06-16, Flightcast VTT, solo)
+374. “So if I trust someone, it means that I make myself punishable by them.” — https://rss.flightcast.com/transcripts/01KV70XMH8CA7K9JRADF24ZZ51.vtt
+375. “And the idea is that I believe I'm making a bet that you're not going to punish me.” — same
+376. “So you're saying trust is about punishment? The answer is yes.” — same
+377. “Do they have a track record of protecting what they've been given?” — same
+378. “And does burning you cost them more than protecting you?” — same
+379. “Because the ceiling of a relationship with potential is based on the shared context that both people have about each other.” — same
+380. “me winning this argument in the short term is not worth the cost of losing the relationship.” — same
+381. “which is why if you want to be trustworthy, you have to do zero punishment.” — same
+382. “You likely end it. It just doesn't die immediately. It's kind of like cutting a tree off the vine.” — same
+383. “I'm giving a presentation tomorrow to my company, sharing something that they could use to hurt me.” — same
