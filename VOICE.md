@@ -516,3 +516,23 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 381. “which is why if you want to be trustworthy, you have to do zero punishment.” — same
 382. “You likely end it. It just doesn't die immediately. It's kind of like cutting a tree off the vine.” — same
 383. “I'm giving a presentation tomorrow to my company, sharing something that they could use to hurt me.” — same
+
+
+### Short posts — incremental 2026-11-08 (X, 2026-11-07)
+384. “You can die tomorrow. Today you fight.” — https://x.com/AlexHormozi/status/2119090811149467757
+
+### Spoken — The Game Ep 978 “Stop Trying to Fix the Thing That's Working” (2026-06-11, Flightcast VTT, solo)
+385. “You have a problem with your problems.” — https://rss.flightcast.com/transcripts/01KTWB0MW065Q1QR3JJMWFS02V.vtt
+386. “And this is where you need to give time time.” — same
+387. “You need to give solutions time to breathe and you need to give solutions time to work.” — same
+388. “if you want to be in the wishing game, then maybe entrepreneurship isn't the right path for you.” — same
+389. “The problem isn't your expectations of the business. Your problem is the timeline of those expectations.” — same
+390. “you can have the business you want, just not by the time that you want it.” — same
+391. “I don't think you need to change your dreams. I think you need to change your time.” — same
+392. “All businesses are scalable. It's just how hard is it to scale?” — same
+393. “I'd rather just have pain one, rather than pain two and cost of change pain, pain three.” — same
+394. “The hard part about the plan isn't thinking about the plan or doing the plan. It's sticking with the plan.” — same
+395. “I'm shouting at me. I'm not shouting at you.” — same
+396. “I know my game. I've been doing this for six years. I've been doing this for eight years. I'm going to keep doing my game.” — same
+397. “you have more ideas than you have time.” — same
+398. “You're saying the problem is a problem that you created.” — same
