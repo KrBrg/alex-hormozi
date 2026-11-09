@@ -483,3 +483,15 @@ Source: Flightcast VTT https://rss.flightcast.com/transcripts/01KTWB0MW065Q1QR3J
 - **The hard part of the plan is sticking with it.** Not thinking it up or doing it once. He's shouting at himself because that muscle is unused; saying no gets a little easier and the test is hearing someone else win and feeling no FOMO — "I know my game."
 - **You have more ideas than time.** You will not start every great idea (not 20%, not 5%). Gains come from compounding on the one thing that's working; pursuing all of them gets you none of them.
 - **The "problem" is often one you created.** Move the line of expectations ahead of reality, then declare the business broken. He sees more businesses ruined that way than by much else — maybe something is wrong with the expectation, not the business.
+
+
+## Negotiate with more variables: multiple equivalent offers, reciprocity, anchoring, and framing as return (The Game Ep 977 backfill, 2026-06-09 — “How to Trade Your Way to a Better Deal Without Moving Your Price”)
+Source: https://rss.flightcast.com/transcripts/g05dj30z47jmt1uixogw0hvr.vtt (enclosure id g05dj30z47jmt1uixogw0hvr). Solo to-camera. No new X posts this wake.
+- **You get what you negotiate, not what you deserve.** It sounds unfair but it's true. Employees, vendors and partners (M&A, investments) are the three vectors, and everyone has all three even without a business.
+- **Make multiple equivalent simultaneous offers (MESOs).** Offer A, B and C with different prices and terms, all fine with you. It embeds reciprocity and teases out the other side's priorities when they won't say them. It's almost a reverse assumed close.
+- **Negotiation is positive-sum.** You have different needs, so give on what matters less to you and take on what matters more; interlock what matters most to each person.
+- **Countering a MESO: ask for the best of all three.** Take the best part of each offer, or ask them for two or three versions of the deal and then propose "option D."
+- **Trade concessions of similar value, from many small pieces.** Break the deal into as many variables as possible (price, speed, risk, ease, financing, closing period, furniture) so you can trade more times without moving price. He keeps a deal sheet with about 80 variables you can change.
+- **Reciprocity only works where the culture honors it.** And the hard part is relative value: a lunch is not an airport ride.
+- **Anchor high on your initial offer, anchor low on counters,** with other offers in your pocket as your psychological power.
+- **Frame it as return, not cost.** Employees and vendors should position themselves as an investment with a return (or a commission on what they bring), not overhead; on the other side, reframe their ask as cost. Back the frame with data, e.g. a pool that adds as much resale value as it costs is effectively free.

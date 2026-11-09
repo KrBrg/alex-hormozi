@@ -536,3 +536,18 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 396. “I know my game. I've been doing this for six years. I've been doing this for eight years. I'm going to keep doing my game.” — same
 397. “you have more ideas than you have time.” — same
 398. “You're saying the problem is a problem that you created.” — same
+
+### Spoken — The Game Ep 977 “How to Trade Your Way to a Better Deal Without Moving Your Price” (2026-06-09, Flightcast VTT, solo)
+399. “Most itty bitty tactics, like, don't actually drive the needle.” — https://rss.flightcast.com/transcripts/g05dj30z47jmt1uixogw0hvr.vtt
+400. “you get what you negotiate, not what you deserve.” — same
+401. “multiple equivalent simultaneous offers.” — same
+402. “it's like embedding reciprocity.” — same
+403. “And it's never an zero-sum game because you're a different person.” — same
+404. “you want to just interlock the things that matter most to each person.” — same
+405. “It's almost like a reverse assumed close.” — same
+406. “we're trying to trade concessions in a way that is still advantageous to us.” — same
+407. “I just have more arrows in my quiver.” — same
+408. “I have this big deal sheet that has 80 different things that I can change about a deal.” — same
+409. “Anchor high in terms of our initial anchor low in terms of our counter offers.” — same
+410. “I'm going to frame it based on return, not based on overhead.” — same
+411. “If someone knows, they spend $100,000 on a pool, and it adds $100,000 to their house, I'm like, then the pool's free” — same
