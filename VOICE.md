@@ -551,3 +551,25 @@ Alex writes like a gym-floor operator who also ships books: short declarative li
 409. “Anchor high in terms of our initial anchor low in terms of our counter offers.” — same
 410. “I'm going to frame it based on return, not based on overhead.” — same
 411. “If someone knows, they spend $100,000 on a pool, and it adds $100,000 to their house, I'm like, then the pool's free” — same
+
+
+### Short posts — incremental 2026-11-10 (X, 2026-11-09)
+412. “A man's work ethic is tested when no one is watching.
+A man's humility is tested when everyone is.” — https://x.com/AlexHormozi/status/2119898413022237003
+413. “To succeed in the short term, be too loud to ignore.
+To succeed in the long term, be too good to ignore.” — https://x.com/AlexHormozi/status/2119866691966648406
+414. “Your income scales in direct proportion to your intolerance of mediocrity, delay, and status quo.” — https://x.com/AlexHormozi/status/2119835793942540341
+
+### Spoken — The Game Ep 976 “How to Build a Brand in the Age of AI” (2026-06-04, Flightcast VTT, solo)
+415. “AI will not equally disrupt all creators.” — https://rss.flightcast.com/transcripts/me1wc4lwt4wjwzdseiw8ysbh.vtt
+416. “The point of education is to change behavior, right?” — same
+417. “the person who has the most credibility wins and not just by a little bit, by a lot of it” — same
+418. “We have to focus on proof. We have to focus the demonstration.” — same
+419. “demonstrating in real time is something that is incredibly difficult to fake, right?” — same
+420. “a self-licking ice cream cone, if you will” — same
+421. “the reality is that I'm usually not making content. We're just capturing it, right?” — same
+422. “proof is going to be in the pudding and you want to make sure that you've got your first spoon in.” — same
+423. “Hey, let me do a whole bunch of work for free. I'll document it and I'll just give it away. Who says no to that?” — same
+424. “You win with what you got, right?” — same
+425. “You're not going to make it, dude.” — same
+426. “It just takes work, but you said you wanted to win. So welcome to the game.” — same

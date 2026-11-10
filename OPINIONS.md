@@ -495,3 +495,13 @@ Source: https://rss.flightcast.com/transcripts/g05dj30z47jmt1uixogw0hvr.vtt (enc
 - **Reciprocity only works where the culture honors it.** And the hard part is relative value: a lunch is not an airport ride.
 - **Anchor high on your initial offer, anchor low on counters,** with other offers in your pocket as your psychological power.
 - **Frame it as return, not cost.** Employees and vendors should position themselves as an investment with a return (or a commission on what they bring), not overhead; on the other side, reframe their ask as cost. Back the frame with data, e.g. a pool that adds as much resale value as it costs is effectively free.
+
+
+## Proof beats content in the age of AI (The Game Ep 976 backfill, 2026-06-04 — “How to Build a Brand in the Age of AI”)
+Source: https://rss.flightcast.com/transcripts/me1wc4lwt4wjwzdseiw8ysbh.vtt (solo to-camera VTT; sponsor/book-giveaway read excluded). Plus 3 original X posts (2026-11-09).
+- **AI doesn't disrupt all creators equally.** Creators sit on a risk continuum: entertainers (the clip is the product, lowest stakes), B2C educators, "B2 prosumer" money advice, then B2B. The higher the stakes for the consumer, the more third-party proof they need, and the harder it is for AI to supply.
+- **When the content is identical, credibility wins by a lot.** Two people give the same six sales-team tips: the one who built ten sales teams gets the following, because people will act on it.
+- **Focus on proof and demonstration.** Accomplishments can be stated once; demonstrating expertise in real time is incredibly hard to fake, so build proof into delivery at scale.
+- **Document, don't create.** He's usually not making content, just capturing the Q&As, meetings and events he already does. Transcribe meetings and mine them for real stories; better, engineer proof into how you serve customers (e.g. a sweepstakes loop he calls a self-licking ice cream cone).
+- **No proof yet? Do free work in public.** Audit or walk through campaigns for your first customers for free and document it: "who says no to that?"
+- **Work ethic and humility (X).** Work ethic is tested unseen, humility when seen; be too loud to ignore short-term and too good to ignore long-term; income scales with intolerance of mediocrity, delay and status quo.
