@@ -505,3 +505,13 @@ Source: https://rss.flightcast.com/transcripts/me1wc4lwt4wjwzdseiw8ysbh.vtt (sol
 - **Document, don't create.** He's usually not making content, just capturing the Q&As, meetings and events he already does. Transcribe meetings and mine them for real stories; better, engineer proof into how you serve customers (e.g. a sweepstakes loop he calls a self-licking ice cream cone).
 - **No proof yet? Do free work in public.** Audit or walk through campaigns for your first customers for free and document it: "who says no to that?"
 - **Work ethic and humility (X).** Work ethic is tested unseen, humility when seen; be too loud to ignore short-term and too good to ignore long-term; income scales with intolerance of mediocrity, delay and status quo.
+
+
+## Effort, entrepreneurship, and the four paths to money (X 2026-11-10 to 14; The Game Ep 975 backfill 2026-06-02; Ep 1014 2026-11-10)
+Sources: https://x.com/AlexHormozi/status/2121697062509253042, https://x.com/AlexHormozi/status/2121664726040269022, https://rss.flightcast.com/transcripts/ycrpzj69nsc9fswv90j7htcj.vtt, https://rss.flightcast.com/transcripts/01M715EXZJ1HQDXP4S3G9HPGHS.vtt (solo segments only).
+- **Effort is the answer to most problems.** "99% of problems can be solved with brutal unrelenting violent effort."
+- **Ignorance is not the blocker; cowardice is.** Stop waiting for all the information; entrepreneurship is figuring it out.
+- **The top 1% pay in stress, sacrifice and pain.** "If it were free, everyone would do it."
+- **Nobody is watching as closely as you think.** "no one cares about you as much as you think they do."
+- **Four paths to mega money** (Ep 975): your money/your business (bootstrap), other people's money/your business (raise capital), your money/others' businesses (invest), other people's money/others' businesses (fund management). First business: "I recommend starting with bootstrapping" to pay off ignorance with your own cash; raising capital means two customers (end customer and investors) and dilution. Shortcut-chasers stay poor.
+- **Picking a business: the three Ps** (Ep 1014): pain, profession, passion. One very specific problem solved for someone is a business; it need not be big or have a huge following.

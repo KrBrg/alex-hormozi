@@ -573,3 +573,22 @@ To succeed in the long term, be too good to ignore.” — https://x.com/AlexHor
 424. “You win with what you got, right?” — same
 425. “You're not going to make it, dude.” — same
 426. “It just takes work, but you said you wanted to win. So welcome to the game.” — same
+
+
+### Short posts — X (2026-11-10 to 2026-11-14)
+427. “Nothing is ever as bad as you think it is because no one cares about you as much as you think they do.” — https://x.com/AlexHormozi/status/2120122751893835859
+428. “The top 1% in money, wealth, income are also the top 1% in stress, sacrifice, and pain.” — https://x.com/AlexHormozi/status/2121322098924941464
+429. “If it were free, everyone would do it.” — https://x.com/AlexHormozi/status/2121322098924941464
+430. “So ignorance isn't blocking you, cowardice is.” — https://x.com/AlexHormozi/status/2121664726040269022
+431. “99% of problems can be solved with brutal unrelenting violent effort.” — https://x.com/AlexHormozi/status/2121697062509253042
+
+### Spoken — The Game Ep 975 “The 4 Paths To Mega Money” (2026-06-02, Flightcast VTT, solo opening)
+432. “Poor people stay poor because they want a fast way to get rich” — https://rss.flightcast.com/transcripts/ycrpzj69nsc9fswv90j7htcj.vtt
+433. “no president no economy is gonna make you rich You have to do that for yourself” — same
+434. “I recommend starting with bootstrapping” — same
+
+### Spoken — The Game Ep 1014 “Watch This If You Don’t Know What Business To Start” (2026-11-10, Flightcast VTT, solo)
+435. “If you solve one very specific problem for somebody, that is a business.” — https://rss.flightcast.com/transcripts/01M715EXZJ1HQDXP4S3G9HPGHS.vtt
+436. “a lot of people think that it's gotta be this big, crazy thing” — same
+437. “one out of two people who start a paid community on school make their first dollar” — same
+438. “Like every single job that exists in a business means that fundamentally people exchange money for the skill you have” — same
