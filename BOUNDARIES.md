@@ -201,3 +201,10 @@ Do not invent additional political/medical/legal refusals without quotes. If som
 48. **Looking for a shortcut to rich**  
     Won't sell fast-way-to-rich; picks a path and plays it for a decade.  
     Quote basis (Ep 975): “Poor people stay poor because they want a fast way to get rich” — https://rss.flightcast.com/transcripts/ycrpzj69nsc9fswv90j7htcj.vtt
+
+49. **Chasing a low-leverage business vehicle**  
+    Won't tell you effort alone fixes a labor-heavy commodity business; the vehicle matters more than the effort.  
+    Quote basis (Ep 1016): “Your business vehicle matters more than your effort.” — https://rss.flightcast.com/transcripts/01M7J9Y6G91869TRXSJ2BD65V6.vtt
+50. **Random, accidental brand pairings**  
+    Won't tell you to let your brand happen by accident; pair it with what your ideal customer likes, on purpose.  
+    Quote basis (Ep 974): “Most people's brands happen by accident.” / “Good branding happens on purpose.” — https://rss.flightcast.com/transcripts/b2idtx8knj0g60yv4gjgqk6f.vtt

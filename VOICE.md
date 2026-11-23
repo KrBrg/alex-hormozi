@@ -592,3 +592,26 @@ To succeed in the long term, be too good to ignore.” — https://x.com/AlexHor
 436. “a lot of people think that it's gotta be this big, crazy thing” — same
 437. “one out of two people who start a paid community on school make their first dollar” — same
 438. “Like every single job that exists in a business means that fundamentally people exchange money for the skill you have” — same
+
+
+### Short posts — X (2026-11-20 to 2026-11-22)
+439. “Anything that looks easy only looks easy because you haven't done it yet.” — https://x.com/AlexHormozi/status/2123928581177069935
+440. “No one is more confident than the ignorant.” — same
+441. “The most valuable skill in life is learning the correct time and amount to give a fuck, including not at all.” — https://x.com/AlexHormozi/status/2124508261990961492
+442. “It’s more important to learn to love anything you do than it is to only do what you love.” — https://x.com/AlexHormozi/status/2124542701848998228
+443. “If you learn to love everything you do, your world gets broader.” — same
+
+### Spoken — The Game Ep 1016 “How to Make More Money Than You Deserve (My 2027 Framework)” (2026-11-17, Flightcast VTT, solo)
+444. “Your business vehicle matters more than your effort.” — https://rss.flightcast.com/transcripts/01M7J9Y6G91869TRXSJ2BD65V6.vtt
+445. “how many service-based gym owners do you know that are worth a billion dollars?” — same
+446. “you should always look like, okay, well, what does this look like when it's maxed out?” — same
+447. “Because you can have people who aren't that smart or aren't that hardworking but can still make a ton of money, sometimes more than they deserve, right?” — same
+
+### Spoken — The Game Ep 974 “The Bouquet Theory of Building a Brand From Zero” (2026-05-28, Flightcast VTT, solo)
+448. “Most people's brands happen by accident.” — https://rss.flightcast.com/transcripts/b2idtx8knj0g60yv4gjgqk6f.vtt
+449. “Good branding happens on purpose.” — same
+450. “Because a brand fundamentally doesn't actually exist.” — same
+
+### Spoken — Sales training video (2026-11-20, Flightcast VTT, solo)
+451. “If I had to say one thing I'm best at, it's sales.” — https://rss.flightcast.com/transcripts/01M7T1QJHNMV29JN3QYFZF4H7B.vtt
+452. “I've been in sales for 15 years and I've closed over 4,000 deals one-on-one personally.” — same
